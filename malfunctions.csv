@@ -1,0 +1,683 @@
+Brand & Model,Malfunction_Name,Issue,Issue type,Priority / Relevancy,Frequency of Occurrence,Symptom,Diagnosis / Possible cause,Troubleshooting / Solutions,Difficulty level,Required Tools ,Repair Part 1        ,Frequently Bought / Consumable / Both,Lifespan of Parts (years),Typical Time to Failure (Years),Repair Part 2        ,Frequently Bought / Consumable / Both,Lifespan of Parts (years),Typical Time to Failure (Years),Repair Part 3        ,Frequently Bought / Consumable / Both,Lifespan of Parts (years),Typical Time to Failure (Years),Estimated Repair Time,Maintenance Schedule	,Preventative_Actions,Cleaning Instructions / Steps,Error_Codes,Visual Signs,Unusual Noises,Smells Leaks,How-to Video Links (if available),,Sources,OEM Part Number(s),Compatible Alternate Parts,Part Cost Estimate,Repair Cost Estimate,Warranty Impact,Columns AH to AL are model specific
+,Refrigerator Not Cooling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator Not Cooling,Faulty Temperature Thermostat,Mechanical Issues,High,High,"Refrigerator is warm, and the temperature settings are unresponsive.","The thermostat is not regulating the temperature correctly, causing the refrigerator to stay warm.","Inspect and replace the temperature control thermostat.
+1. Set the thermostat to a different temperature and check if the compressor kicks on.
+2. Use a multimeter to test the thermostat for continuity.
+3. Inspect for any signs of wear or corrosion.
+4. Replace the thermostat if it shows no continuity or is found malfunctioning..",Medium-DIY,"Screwdriver, Multimeter",Temperature Control Thermostat,Frequently Bought,10-15 years,,,,,,,,,,60-120 minutes,-,Regularly clean the thermostat and control panel area. Avoid placing hot items in the fridge.,,-,-,-,-,,,,,,,,,
+,Refrigerator Not Cooling,Faulty Evaporator Fan,Mechanical Issues,High,Medium,"Refrigerator is warm, and no cold air is circulating.","The evaporator fan is not working, preventing cold air from circulating.","Inspect and replace the evaporator fan.
+1. Listen for the sound of the evaporator fan running (if not, check for obstruction).
+2. Inspect the evaporator fan blades and the fan motor for damage or wear.
+3. Test the fan motor with a multimeter for continuity. 
+4. Replace the fan motor if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter, Putty Knife",Evaporator Fan Motor,Frequently Bought,8-12 years,,Evaporator Fan Blade,,10-20 years,,,,,,45-90 minutes,-,Regularly inspect the fan for blockages or damage; ensure the fridge is clean and properly maintained to avoid fan obstructions.,,-,-,"Buzzing, Humming",-,,,"https://www.perfectappliancerepairtampa.com/blog/why-your-refrigerator-is-not-cooling-causes-and-solutions
+https://www.angi.com/articles/refrigerator-not-cooling.htm
+https://www.mrappliance.com/blog/refrigerator-not-cooling/
+https://www.asurion.com/connect/tech-tips/lg-refrigerator-not-cooling/",,,,,,
+,Refrigerator Not Cooling,Thermostat Set Too High,Thermal Issues,High,Medium,Refrigerator feels warm; food not staying cold.,Thermostat accidentally set to a higher temperature.,"Lower the thermostat setting to a colder temperature.
+1. Check the thermostat setting and adjust if it’s too high.
+2. Use a thermometer to ensure the fridge temperature matches the thermostat.
+3. Adjust the setting if necessary.",Easy-DIY,-,-,,-,-,,,,,,,,-,5-10 minutes,,Set the thermostat to recommended temperature (35-38°F). Avoid frequent temperature changes.,,,,,,,,,,,,,,
+,Refrigerator Not Cooling,Faulty Start Relay,Mechanical Issues,Medium,Medium,"Refrigerator is warm, and there is a clicking sound from the compressor.","The start relay is faulty and not sending power to the compressor, resulting in compressor not starting.","Inspect and replace the start relay.
+1. Unplug the refrigerator and remove the start relay from the compressor.
+2. Use a multimeter to check the continuity of the relay.
+3. Inspect for any visible signs of damage or burning.
+4. Replace the start relay if it shows no continuity or is found malfunctioning..",Medium-DIY,"Screwdriver, Multimeter",Compressor Start Relay,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,-,Periodically check and clean the compressor area. Ensure proper voltage is supplied to the appliance.,,-,-,Clicking,-,,,"https://www.hunker.com/13409752/signs-and-symptoms-of-a-bad-start-relay-on-a-refrigerator/
+https://www.reddit.com/r/fixit/comments/186kukp/refrigerator_not_cooling_after_starter_relay/
+https://www.ifixit.com/Troubleshooting/Refrigerator/Compressor+Not+Running/505022#:~:text=Faulty%20Start%20Relay,-The%20start%20relay&text=If%20the%20start%20relay%20is,should%20be%20replaced%20if%20defective.&text=Play-,Safely%20remove%20the%20start%20relay%20assembly,Start%20Relay%20with%20a%20multimeter.",,,,,,
+,Refrigerator Not Cooling,Faulty Temperature Sensor,Thermal Issues,Medium,Medium,Refrigerator temperature fluctuates or is inconsistent.,The temperature sensor is not accurately detecting the refrigerator's temperature.,"Replace the temperature sensor: 
+1. Use a multimeter to test the sensor for continuity. 
+2. Inspect for any visible damage or wear. 
+3. Compare temperature readings with the actual temperature in the fridge. 
+4. Replace the sensor if faulty.",Medium-DIY,"Screwdriver, Needle-Nose Pliers, Multimeter",Temperature Sensor,Frequently Bought,10–15 years,10–15 years,,,,,,,,,30-45 minutes,,"1. Regular Temperature Verification.
+2. Periodic Sensor Testing.
+3. Inspect and Clean the Sensor Area.",,,,,,,,https://www.ifixit.com/Troubleshooting/Refrigerator/Not+Cooling/505025,,,,,,
+,Refrigerator Not Cooling,Blocked Air Vents,Thermal Issues,Medium,Medium,"Refrigerator is warm, but the freezer is cold.","Air vents between the freezer and refrigerator are blocked, restricting airflow.","Clean air vents:
+1- Unplug the refrigerator for safety.
+2.  Locate the air vents inside the fridge/freezer.
+3. Remove any food or items blocking the vents.
+4. Check for and defrost any ice buildup.
+5. Clean the vents using a brush, cloth, or vacuum.
+6. Inspect door seals and temperature settings.
+7. Plug back in and monitor airflow and cooling.",Easy-DIY,"Soft-Bristled Brush, Soft Cloth",-,,-,,,,,,,,,,60 minutes,Check during cleaning (every 3 months),Avoid overpacking the fridge; regularly check vents for obstructions; defrost if needed.,,,,,,,,"https://www.perfectappliancerepairtampa.com/blog/why-your-refrigerator-is-not-cooling-causes-and-solutions
+https://aaapplianceleasing.com/refrigerator-rental/why-is-my-refrigerator-not-cooling-8-possible-causes/",,,,,,
+,Refrigerator Not Cooling,Faulty Control Board,Control or Software Issues,Medium,Medium,"Refrigerator is warm, and the display or controls are unresponsive.","The control board is malfunctioning, disrupting power to cooling components.","Replace the control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the control board if it shows no continuity or is found malfunctioning.",Technician,-,Control Board,,5-10 years,,,,,,,,,,60-120 minutes,,Ensure proper voltage supply. Avoid power surges. Regularly clean the control board area.,,,,,,,,"https://www.ifixit.com/Troubleshooting/Refrigerator/Not+Cooling/505025#Section_Temperature_Control_Board_Failure
+https://nationwideappliancerepairs.com.au/fix-my-refrigerator-that-is-not-cooling/",,,,,,
+,Refrigerator Not Cooling,Worn-Out Door Gasket,Other,Medium,Medium,"Refrigerator is warm, and the door is not sealing properly.","The door gasket is worn out, allowing warm air to enter the refrigerator.","Replace the damaged gasket with a new one compatible with your refrigerator model. Clean the gasket area thoroughly before installation to ensure a proper seal. After replacement, check that the door closes securely and seals tightly. Regularly clean and inspect the new gasket to prevent future wear.",Medium-DIY,Putty Knife or Flat Tool,Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,30-60 minutes,,"1. Clean Regularly
+2. Inspect for Damage
+3. Keep the Door Closed Properly
+4. Ensure Door Alignment",,,,,,,,"https://nationwideappliancerepairs.com.au/fix-my-refrigerator-that-is-not-cooling/
+https://www.tcl.com/global/en/blog/playbooks/top-9-reasons-your-refrigerator-isnt-cooling-and-their-fixes
+https://www.angi.com/articles/refrigerator-not-cooling.htm
+https://www.ifixit.com/Troubleshooting/Refrigerator/Not+Cooling/505025
+",,,,,,
+,Refrigerator Not Cooling,Faulty Compressor,Mechanical Issues,Medium,Low,"Refrigerator is warm, and the compressor is not working.","The compressor is at fault and not functioning, preventing the refrigerant from circulating and thus resulting the refrigerator to not cool.","Inspect and replace the compressor.
+1. Listen for any unusual sounds from the compressor (e.g., clicking or humming).
+2. Check the compressor for overheating or signs of damage.
+3. Use a multimeter to test compressor continuity. 
+4. Replace the compressor if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Socket wrench kit, Multimeter",Compressor,,10-15 years,,,,,,,,,,-,-,"Avoid overloading the refrigerator. Ensure adequate airflow around the compressor, and maintain proper temperature settings.",,-,-,"Clicking, Humming",-,,,"https://www.tcl.com/global/en/blog/playbooks/top-9-reasons-your-refrigerator-isnt-cooling-and-their-fixes
+https://www.ifixit.com/Troubleshooting/Refrigerator/Not+Cooling/505025
+https://www.maytag.com/blog/kitchen/refrigerator-is-not-cooling.html
+https://nationwideappliancerepairs.com.au/fix-my-refrigerator-that-is-not-cooling/",,,,,,
+,Refrigerator Not Cooling,Broken Condenser Fan Motor,Mechanical Issues,Low,Medium,"Refrigerator is warm, and no cold air is circulating.","The condenser fan is not working, preventing cold air from circulating.","Inspect and replace the condenser fan.
+1. Listen for the sound of the condenser fan running (if not, check for obstruction).
+2. Inspect the condenser fan blades and the fan motor for damage or wear.
+3. Test the fan motor with a multimeter for continuity. 
+4. Replace the fan motor if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter, Putty Knife",Condenser Fan Motor,,10-15 years,,Condenser Fan Blade,,10-20 years,,,,,,45-90 minutes,,Regularly inspect the fan for blockages or damage; ensure the fridge is clean and properly maintained to avoid fan obstructions.,,,,,,,,"https://forum.appliancepartspros.com/posts/t408325-condenser-fan-not-working-properly
+https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/51---/Refrigerator-Not-Cooling?srsltid=AfmBOooBLuaqt5ub4T2m51WWu4jjyG8nlNyD4_ZWsgmawhUwetKqoo_C",,,,,,
+,Refrigerator Not Cooling,Dirty Condenser Coils,Refrigeration System Issues,Low,Medium,"Refrigerator is warm, and the condenser coils are covered in dust or debris.",Dust and debris on the condenser coils reduce cooling efficiency.,"Clean the condenser coil:
+1. Unplug the refrigerator.
+2. Remove the base grille, if necessary.
+3. Use a refrigerator condenser coil cleaning brush to remove any dirt, dust, pet hair, etc., from the coils.
+4. Sweep or vacuum any dirt, dust, or pet hair from the floor around the area.
+5. Replace the grille, if necessary.
+6. Plug the refrigerator back into the wall outlet.",Easy-DIY,Coil Cleaning Brush,-,,-,,,,-,,,,-,,-,-,Clean condenser coils every 6 months; ensure proper airflow around the fridge.,,-,-,-,-,,,"https://appliancecareofatlanta.com/blog/refrigerator-is-not-cooling-how-to-fix-this-problem/
+https://www.tcl.com/global/en/blog/playbooks/top-9-reasons-your-refrigerator-isnt-cooling-and-their-fixes
+https://www.perfectappliancerepairtampa.com/blog/why-your-refrigerator-is-not-cooling-causes-and-solutions
+https://www.perfectappliancerepairtampa.com/blog/why-your-refrigerator-is-not-cooling-causes-and-solutions",,,,,,
+,Refrigerator Not Cooling,Clogged Defrost Drain,Water Flow / Hydraulic Issues,Low,Medium,Water pooling inside the refrigerator and the refrigerator is warm,"The defrost drain is clogged, preventing water from draining properly.","Clear the defrost drain using a pipe cleaner or hot water.
+1. Inspect the defrost drain for visible blockages (food, ice, or debris).
+2. Flush the drain with warm water or use a cleaning brush.
+3. Ensure water flows freely through the drain.
+4. If the defrost drain hose keeps on blocking even after cleaning it, then it could indicate a problem with defrost system.
+5. Test the defrost components i.e. defrost thermostat, defrost heater, and defrost timer, for continuity using a multimeter.
+6. If any of the components show no continuity or are found malfunctioning, replace accordingly. ",Medium-DIY,"Screwdriver, Multimeter",Defrost Thermostat,Frequently Bought,8-10 years,,Defrost Heater,,5-10 years,,Defrost Timer,,5-10 years,,60-120 minutes,,Regularly clean the defrost drain. Avoid overloading the fridge.,"1. Locate and access the defrost drain hose.
+2. Start by pouring warm water into the drain opening, letting it flow through the drain hose. This will help clear out any gunk, debris, or ice buildup inside the hose.
+3. After the drain hose is cleaned, pour a small amount of water into the drain opening and check if it flows smoothly into the drain pan underneath.
+4. Keep an eye on the refrigerator over the next few days to ensure that the defrost drain continues to function correctly and that there is no water buildup.",,,,,,,"https://ironmountainrefrigeration.com/2024/10/17/fridgefreezer-door-not-closing-properly/#:~:text=A%20refrigerator%20or%20freezer%20door,or%20spoil%20faster%20than%20expected.",,,,,,
+,Refrigerator Not Cooling,Low Refrigerant Levels,Refrigeration System Issues,Low,Low,"Refrigerator is warm, and the condenser coils are hot.","A refrigerant leak has caused low refrigerant levels, reducing cooling efficiency.","Repair the leak and recharge the refrigerant system.
+1. Inspect for visible leaks around the evaporator and condenser coils.
+2. Check the refrigerant charge with a gauge.
+3. Consult a technician to recharge or repair the refrigerant system if there is a leak.",Technician,-,-,,,,,,,,,,,,-,,Avoid blocking vents or coils. Schedule professional maintenance for refrigerant checks.,,,,,,,,"https://www.kellyvision-peterborough.co.uk/blog/latest-news/why-is-my-fridge-not-cooling#:~:text=Signs%20of%20low%20refrigerant%20levels,signs%20of%20a%20refrigerant%20leak",,,,,,
+,Refrigerator Not Cooling,Faulty Defrost Timer,Mechanical Issues,Low,Low,"Frost buildup on evaporator coils, and the refrigerator is warm.","The defrost timer is malfunctioning, preventing the defrost cycle from running.","Inspect and replace the defrost timer.
+1. Listen for clicking sound from the defrost timer.
+2. Test the defrost timer for continuity using a multimeter.
+3. Ensure the timer’s connection to the defrost heater and thermostat is intact.
+4. Replace the defrost timer if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Socket wrench kit, Multimeter",Defrost Timer,,5-10 years,,,,,,,,,,30-60 minutes,,Regularly clean the evaporator coils and ensure proper defrost cycles are maintained.,,,,,,,,"https://byrdas.com/refrigerator-not-cooling-at-all-defrost-timer/
+http://ifixit.com/Troubleshooting/Refrigerator/Compressor+Running+But+Not+Cooling/509172",,,,,,
+,Refrigerator Not Cooling,Misaligned Door Hinges,Mechanical Issues,Low,Low,"Refrigerator door does not close properly, causing warm air to enter.","The door hinges are misaligned, preventing a proper seal, causing the door to not close properly","Realign or replace the door hinges.
+1. Check door alignment and hinges for visible wear or looseness.
+2. Test if the door closes properly when pushed.
+3. Tighten the hinges if misalignment is detected.
+4. If the problem persists, then the hinges may need to be replaced.",Easy-DIY,Screwdriver,Door Hinges,,10-20 years,,,,,,,,,,30-60 minutes,,Avoid slamming the door. Ensure the fridge is level to prevent misalignment.,,,,,,,,"https://ironmountainrefrigeration.com/2024/10/17/fridgefreezer-door-not-closing-properly/#:~:text=A%20refrigerator%20or%20freezer%20door,or%20spoil%20faster%20than%20expected.",,,,,,
+,Refrigerator Not Cooling,Faulty Defrost Heater,Mechanical Issues,Low,Low,"Frost buildup on evaporator coils, and the refrigerator is warm.","The defrost heater is not melting frost, blocking airflow and resulting the refrigerator to not cool.","Inspect and replace the defrost heater.
+1. Check for frost buildup around the evaporator coils and clean the evaporator coils accordingly.
+2. Use a multimeter to test the defrost heater for continuity.
+3. Inspect the heater for any visible damage or breaks and ensure that the wire harness connections regarding it are intact.
+4. Replace the faulty defrost heater if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Socket wrench kit, Multimeter",Defrost Heater,,5-10 years,,,,,,,,,,60-120 minutes,,Regularly defrost the fridge to prevent excessive frost buildup. Maintain proper temperature settings.,,,,,,,,"https://www.quora.com/I-have-a-double-door-fridge-The-upper-portion-is-cooling-well-but-the-lower-portion-is-not-cooling-What-should-I-do-next
+https://www.quora.com/What-should-I-do-if-my-fridge-is-not-cooling-properly
+https://nationwideappliancerepairs.com.au/fix-my-refrigerator-that-is-not-cooling/",,,,,,
+,Ice Maker Not Working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Ice Maker Not Working,Faulty Water Inlet Valve,Water Flow / Hydraulic Issues,High,High,"Ice maker is not receiving water, and no ice is being produced.",The water inlet valve is not opening to allow water into the ice maker.,"Replace the water inlet valve.
+1. Use a multimeter to test the valve for continuity.
+2. Inspect for clogs or any damage.
+3. Replace the water inlet valve if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Water Inlet Valve,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Install water filters. Periodically inspect the valve for mineral buildup.,,,,,,,,"https://www.asurion.com/connect/tech-tips/refrigerator-not-making-ice/
+https://www.ifixit.com/Troubleshooting/Refrigerator/Ice+Maker+Not+Making+Ice/481782
+",,,,,,
+,Ice Maker Not Working,Expired water filter,Water Flow / Hydraulic Issues,High,Medium,Slow or no ice production; bad taste or odor in ice; water dispenser also affected.,Clogged or outdated filter restricting water flow to ice maker.,"Replace the water filter according to manufacturer’s schedule.
+1. Check filter replacement date.
+2. Replace if over 6 months old or clogged.",Easy-DIY,,Water Filter,"Frequently Bought, Both",0.5,0.5,,,,,,,,,5-10 minutes,,Change filter every 6 months or per manufacturer recommendation.,,,,,,,,"https://techvillappliancerepair.ca/fridge-ice-maker-not-working/
+https://academy.fredsappliance.com/refrigerator-training/5-reasons-your-samsung-ice-maker-is-not-working/
+https://www.selecthomewarranty.com/blog/ice-maker-troubleshooting-repair/https://www.selecthomewarranty.com/blog/ice-maker-troubleshooting-repair/",,,,,,
+,Ice Maker Not Working,Faulty Ice Maker Module,Mechanical Issues,High,Low,"Ice maker is not cycling or producing ice, and no motor sounds are heard.",The ice maker module is malfunctioning and not initiating the ice-making process.,"Reset or Replace the ice maker module.
+1. Reset the ice maker by the reset button it or by unplugging the refrigerator for a few minutes and then plugging back in.
+2. Inspect the ice maker module for broken gears or burnt circuitry.
+3. Test the ice maker for continuity using a multimeter.
+4. Replace the ice maker module if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Ice Maker Module,,5-10 years,,,,,,,,,,30-60 minutes,,Avoid overloading freezer area. Perform periodic diagnostics.,,,,,,,,"https://www.ifixit.com/Troubleshooting/Refrigerator/Ice+Maker+Not+Making+Ice/481782
+https://www.ifixit.com/Answers/View/407671/Ice+maker+stopped+making+ice.#:~:text=The%20icemaker%20module%20is%20equipped,Door%20Switch",,,,,,
+,Ice Maker Not Working,Clogged Water Filter,Water Flow / Hydraulic Issues,Medium,High,"Ice maker is producing small or no ice, and water flow is weak.","The water filter is clogged, restricting water flow to the ice maker and dispenser.","Replace the water filter.        
+1. Check the filter for age or sediment buildup. 
+2. Replace with a compatible filter. 
+3. Reset the filter indicator if applicable.",Easy-DIY,-,Water Filter,"Consumable, Both",0.5,0.5,,,,,,,,,5-10 minutes,Replace every 6 months,Replace filter every 6 months or as recommended.,,,,,,,,"https://www.ifixit.com/Troubleshooting/Refrigerator/Ice+Maker+Not+Making+Ice/481782
+https://www.frigidaire.ca/Owner-Centre/FAQs/Refrigerators/what-should-i-do-if-my-ice-maker-is-not-making-any-ice-in-my-refrigerator/#:~:text=This%20usually%20is%20due%20to,a%20kinked%20water%20supply%20line.
+https://www.asurion.com/connect/tech-tips/refrigerator-not-making-ice/
+https://www.cnet.com/home/kitchen-and-household/ice-maker-on-the-rocks-heres-how-to-fix-it/#google_vignette",,,,,,
+,Ice Maker Not Working,Frozen Ice Maker Assembly,Thermal Issues,Medium,Medium,"Ice maker is stuck, and ice cubes are not ejecting.","The ice maker assembly is frozen, preventing ice from being released.","Manually defrost the ice maker assembly and check for proper operation.
+1. Inspect for frost or ice accumulation.
+2. Manually defrost the ice maker module.
+3. Check for defrost sensor malfunction and replace if it is found at fault.
+4. If the ice maker module does not returns to normal operation even after defrosting. replace it.",Medium-DIY,Screwdriver,Defrost Thermostat,Frequently Bought,5-10 years,,Ice Maker Module,,5-10 years,,,,,,30-60 minutes,,Ensure proper temperature and airflow in freezer.,,,,,,,,https://www.youtube.com/watch?v=oGg-ZOXzC30&t=69s,,,,,,
+,Ice Maker Not Working,Incorrect freezer temperatures,Mechanical Issues,Medium,Medium,Ice maker not producing ice or making it very slowly; soft or misshapen ice.,Freezer too warm (above ~15°F / -9°C) or too cold; faulty thermostat or temperature sensor.,"Test and replace faulty sensors or control board.
+1. Check and adjust temperature settings 
+2. Use a thermometer to verify freezer temp (should be ~0°F/-18°C).
+2. Adjust settings if too high or low.
+4. Test the temperature sensor for continuity using a multimeter.
+5. If it shows no continuity, replace it, otherwise, check the main control board.",Technician,,Temperature Sensor,Frequently Bought,5-10 years,,Control Board,,5-10 years,,,,,,60-120 minutes,,Set correct freezer temperature. Avoid frequent door opening.,,,,,,,,"https://diy.repairclinic.com/fixing-a-broken-refrigerator-ice-maker/
+https://www.angi.com/articles/common-ice-maker-repairs-and-maintenance.htm
+https://www.vevor.com/diy-ideas/ice-maker-not-working-b_10563/",,,,,,
+,Ice Maker Not Working,Low Water Pressure,Water Flow / Hydraulic Issues,Medium,Medium,"Ice maker produces small, hollow, or no ice cubes because low water pressure prevents the fill tube from delivering enough water.",Low water pressure is preventing adequate water flow to the ice maker.,"First, check the water supply to your refrigerator. Make sure the supply valve is fully open and that your home's water pressure meets the manufacturer's specifications, as low pressure can affect the inlet valve's performance. Also, inspect the water inlet valve; if it doesn't open or close properly, it will block water flow to the ice maker.",Medium-DIY,"Wrench, Pliers ",Water Tube,,10-15 years,8-12 years,Water Inlet Valve,Frequently Bought,5-10 years,5-8 years,,,,,30-45 minutes,,"Regularly monitor and maintain water pressure. Timely replace or clean water filters. Periodically inspect the water line for kinks, blockages, or mineral accumulation. Verify the functionality of the water inlet valve.",,,,,,,,https://www.ifixit.com/Troubleshooting/Refrigerator/Ice+Maker+Not+Making+Ice/481782,,,,,,
+,Ice Maker Not Working,Control arm mispositioned,Mechanical Issues,Medium,Medium,Ice maker not cycling or producing ice; appears off even though powered.,Control arm stuck in the “off” position or dislodged from its normal path.,"Locate the control arm and gently move it to the down (on) position, ensuring it moves freely and isn't blocked by ice or bin contents. Check for damage or looseness, then power the unit back on and verify normal operation.",Easy-DIY,,Icemaker Control Arm,,5-10 years,5-10 years,,,,,,,,,5-10 minutes,,"Regularly inspect the control arm for any signs of wear, bending, or obstruction. Avoid manual interference when cleaning or moving the ice maker, as forceful handling can misalign or damage the arm.",,,,,,,,,,,,,,
+,Ice Maker Not Working,Faulty Control Board,Control or Software Issues,Low,Low,"Ice maker is unresponsive, and no lights or sounds are present.",The control board is not sending power to the ice maker.,"To fix a faulty control board, start by power cycling the refrigerator to reset the system. Check for any visible signs of damage on the board, and inspect wiring connections for looseness or corrosion. If the ice maker doesn’t respond during a manual test and other components are functional, replace the control board with a compatible part. After installation,monitor ice production.",Technician,,Control Board,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Ice Maker Not Working,Frozen Water Supply Line,Water Flow / Hydraulic Issues,Low,Low,"Ice maker is not producing ice, and no water is flowing to the ice maker.","The water supply line is frozen, blocking water flow to the ice maker.","Thaw the water supply line or replace it if necessary.
+1. Check if the line is frozen by feeling for cold spots.
+2. Defrost the line manually or unplug the fridge.
+3. Insulate the line if needed.",Easy-DIY,,-,,,,,,,,,,,,,,Ensure freezer is not set too cold. Insulate the line in cold environments.,,,,,,,,"https://twincitiesappliance.com/washer-repair/how-to-repair-a-frozen-ice-maker-supply-line/
+https://twincitiesappliance.com/washer-repair/how-to-repair-a-frozen-ice-maker-supply-line/",,,,,,
+,Ice Maker Not Working,Blocked Ice Chute,Mechanical Issues,Low,Low,"Ice is not dispensing, and the chute is clogged or blocked.","The ice chute is blocked by ice or debris, preventing ice from dispensing.","A blocked ice chute is usually caused by ice buildup or debris. Turn off the machine, clear the blockage with warm water, clean the chute, and check components like the motor and seals. Ensure chute flap opens freely.",Easy-DIY,,,,,,,,,,,,,,15-45 minutes,,Clean the ice chute weekly with warm water and food-safe sanitizer. Regularly dispense ice to prevent clumping; clean chute monthly.,,,,,,,,https://www.ifixit.com/Troubleshooting/Refrigerator/Ice+Maker+Not+Making+Ice/481782,,,,,,
+,Ice Maker Not Working,Faulty Door Switch,Mechanical Issues,Low,Low,"Ice maker is not working, and the dispenser is unresponsive.","The door switch is faulty, preventing the ice maker from operating when the door is open.","Replace the door switch.
+1. Open door and observe if interior lights turn on/off.
+2. Test the door switch with a multimeter for continuity.
+3. If the door switch shows no continuity or is found malfunctioning, replace it.",Medium-DIY,,Door Switch,,5-10 years,,,,,,,,,,30-60 minutes,,Keep switch area clean and free of moisture.,,,,,,,,"https://www.ifixit.com/Answers/View/407671/Ice+maker+stopped+making+ice.#:~:text=The%20icemaker%20module%20is%20equipped,Door%20Switch
+https://www.ifixit.com/Troubleshooting/Refrigerator/Ice+Maker+Not+Making+Ice/481782",,,,,,
+,Ice Maker Not Working,Misaligned Ice Maker,Mechanical Issues,Low,Low,"Ice maker is not dispensing ice, and the tray is stuck or misaligned.","The ice maker is misaligned, preventing proper operation.","Realign or reinstall the ice maker.
+1. Check mounting brackets and alignment with water fill tube.
+2. Adjust or reinstall properly.",Easy-DIY,,,,,,,,,,,,,,10-15 minutes,,Ensure unit is properly installed; avoid rough handling when loading freezer.,,,,,,,,"https://www.justanswer.com/appliance/ncgea-lg-twist-icemaker-tray-dropped-alignment.html#:~:text=If%20the%20ice%20tray%20stops,freezer%20with%20ice%20and%20water.
+https://www.whirlpool.com/blog/kitchen/ice-maker-troubleshooting.html#:~:text=Unlevel%20refrigerator%20or%20ice%20maker&text=Solution:%20First%2C%20use%20a%20leveler,the%20entire%20unit%20is%20unlevel.",,,,,,
+,Ice Maker Not Working,Ice maker leaking,Water Flow / Hydraulic Issues,Low,Low,"Water pooling in or around ice bin, frozen clumps of ice, leak from behind the fridge.","Loose or cracked water line, misaligned ice maker, or overfilling due to faulty valve.",First unplug the unit and inspect the water supply line for cracks or loose connections. Check for clogged or frozen drain lines and ensure the machine is level. Examine the water inlet valve and internal tubing for damage or leaks.  ,Medium-DIY,,Water Tube,,10-15 years,8-12 years,Water Inlet Valve,Frequently Bought,5-10 years,5-8 years,,,,,30-45 minutes,,Inspect water supply lines monthly for cracks or loose fittings. Clean the drain line regularly to prevent clogs and freezing. Check and level the ice maker to avoid uneven water flow.,,,,,,,,"https://peachappliancerepair.com/common-ice-maker-problems/
+https://www.maytag.com/blog/kitchen/ice-maker-troubleshooting.html                  
+https://peachappliancerepair.com/common-ice-maker-problems/",,,,,,
+M003,Freezer Not Freezing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Freezer Not Freezing,Faulty Evaporator Fan,Mechanical Issues,High,Medium,"Freezer is not cold, food is thawing",The evaporator fan is not circulating cold air properly.,"Inspect and replace the evaporator fan.
+1. Listen for the sound of the evaporator fan running (if not, check for obstruction).
+2. Inspect the evaporator fan blades and the fan motor for damage or wear.
+3. Test the fan motor with a multimeter for continuity. 
+4. Replace the fan motor if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter, Putty Knife",Evaporator Fan Motor,Frequently Bought,8-12 years,,Evaporator Fan Blade,,10-20 years,,,,,,45-90 minutes,,Regularly inspect the fan for blockages or damage; ensure the fridge is level to avoid fan obstructions.,,,,,,,,"https://www.asurion.com/connect/tech-tips/lg-refrigerator-not-cooling/
+https://www.mrappliance.com/blog/refrigerator-not-cooling/
+https://www.angi.com/articles/refrigerator-not-cooling.htm
+https://www.perfectappliancerepairtampa.com/blog/why-your-refrigerator-is-not-cooling-causes-and-solutions",,,,,,
+,Freezer Not Freezing,Faulty Temperature Thermostat,Mechanical Issues,High,High,Freezer temperature is inconsistent or too warm,The thermostat is not regulating the temperature correctly.,"Inspect and replace the temperature control thermostat.
+1. Use a multimeter to test the thermostat for continuity.
+2. Inspect for any signs of wear or corrosion.
+3. Replace the thermostat if it shows no continuity or is found malfunctioning..",,"Screwdriver, Multimeter",Temperature Control Thermostat,"Frequently Bought, Both",10-15 years,,,,,,,,,,60-120 minutes,,Set correct temp. Check settings regularly,,,,,,,,"https://authorizedco.com/refrigerator-repair/why-is-the-freezer-not-freezing-properly/
+https://www.homesandgardens.com/solved/why-isn-t-my-freezer-freezing-expert-advice-on-how-to-fix-it
+https://allappliance.net/blog/freezer-not-freezing/",,,,,,
+,Freezer Not Freezing,Faulty Temperature Sensor,Mechanical Issues,High,High,Freezer temperature fluctuates or is inconsistent,The temperature sensor is not accurately detecting the freezer's temperature.,"Inspect and replace the temperature sensor: 
+1. Use a multimeter to test the sensor for continuity. 
+2. Inspect for any visible damage or wear. 
+3. Compare temperature readings with the actual temperature in the freezer. 
+4. Replace the sensor if faulty.",Medium-DIY,"Screwdriver, Needle-Nose Pliers, Multimeter",Temperature Sensor,Frequently Bought,10–15 years,10–15 years,,,,,,,,,30-45 minutes,,Avoid spills inside unit. Clean sensor area,,,,,,,,"https://atlanta-appliance.com/blog/troubleshooting-common-freezer-temperature-problems/#:~:text=If%20adjusting%20the%20temperature%20setting,ll%20need%20to%20be%20replaced.
+https://www.libertyhomeguard.com/the-most-common-freezer-problems/
+https://www.searshomeservices.com/blog/why-is-my-refrigerator-working-but-the-freezer-is-not-freezing",,,,,,
+,Freezer Not Freezing,Wiring Issues,Electrical Issues,High,Medium,"Freezer is not cold, and the temperature control panel is unresponsive","Wiring connections are loose or damaged, disrupting power to the control panel.","Inspect and replace the wire harness.
+1. Inspect the wire harness regarding the thermostat and the control board and make sure they are intact.
+2. If any of the wire harness shows any visible damage or is found malfunctioning, replace accordingly.",Medium-DIY,,Wire Harness,,8-15 years,,,,,,,,,,30-60 minutes,,Inspect for frayed or disconnected wires. Test continuity.,,,,,,,,"https://www.amana.com/articles/freezer-not-freezing-solve-this-and-other-freezing-problems.html
+https://allappliance.net/blog/freezer-not-freezing/
+https://www.homesandgardens.com/solved/why-isn-t-my-freezer-freezing-expert-advice-on-how-to-fix-it",,,,,,
+,Freezer Not Freezing,Blocked Air Vents,Thermal Issues,Medium,Medium,"Freezer is warm, but the refrigerator is cold","Air vents between the freezer and refrigerator are blocked, restricting airflow.","Clean air vents:
+1- Unplug the refrigerator for safety.
+2.  Locate the air vents inside the freezer.
+3. Remove any food or items blocking the vents.
+4. Check for and defrost any ice buildup.
+5. Clean the vents using a brush, cloth, or vacuum.
+6. Inspect door seals and temperature settings.
+7. Plug back in and monitor airflow and cooling.",Easy-DIY,"Soft-Bristled Brush, Soft Cloth",-,,-,,,,,,,,,,60 minutes,Check during cleaning (every 3 months),Avoid overpacking. Keep vents clear,,,,,,,,"https://www.maytag.com/blog/kitchen/why-is-my-freezer-not-freezing.html#:~:text=If%20your%20freezer%20is%20not,frozen%20foods%20and%20bulky%20items.",,,,,,
+,Freezer Not Freezing,Defective Start Relay,Mechanical Issues,Medium,Medium,"Freezer is not cold, and there is a clicking sound",The start relay is faulty and not sending power to the compressor.,"Inspect and replace the start relay.
+1. Unplug the refrigerator and remove the start relay from the compressor.
+2. Use a multimeter to check the continuity of the relay.
+3. Inspect for any visible signs of damage or burning.
+4. Replace the start relay if it shows no continuity or is found malfunctioning..",Medium-DIY,"Screwdriver, Multimeter",Compressor Start Relay,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Ensure proper voltage. Check after power surges,,,,Clicking,,,,"https://www.homeserve.com/en-us/blog/how-to/fix-your-freezer/
+https://www.selecthomewarranty.com/blog/freezer-wont-freeze/
+https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Freezer/96---/Freezer-Not-Freezing",,,,,,
+,Freezer Not Freezing,Faulty Control Board,Control or Software Issues,Medium,Medium,"Freezer is not cold, and the interior light is off","The control board is malfunctioning, disrupting power to the freezer components.","Replace the control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the control board if it shows no continuity or is found malfunctioning.",Technician,,Control Board,,5-10 years,,,,,,,,,,60-120 minutes,,Use surge protector. Keep area clean,,,,,,,,https://www.searshomeservices.com/symptom/refrigerator-cold-but-freezer-not-freezing,,,,,,
+,Freezer Not Freezing,Defrost System Failure,Mechanical Issues,Medium,Medium,Frost buildup on evaporator coils,"The defrost system is not melting frost, blocking airflow.","Inspect and replace the defrost system.
+1. Check for frost buildup around the evaporator coils and clean the evaporator coils accordingly.
+2. Use a multimeter to test the components of the dfrost system i.e. defrost thermostat, defrost heater, and defrost timer for continuity.
+3. Inspect the defrost system components for any visible damage or breaks and ensure that the wire harness connections regarding them are intact.
+4. Replace the defrost system components if they shows no continuity or are found malfunctioning, accordingly.",Medium-DIY,"Screwdriver, Multimeter",Defrost Thermostat,"Frequently Bought, Both",8-10 years,,Defrost Heater,,5-10 years,,Defrost Timer,,5-10 years,,60-120 minutes,,Regularly inspect frost buildup. Keep defrost system clean.,,,,,,,,"https://www.mrappliance.com/blog/2022/july/freezer-not-freezing-troubleshooting-tips-to-dro/
+https://www.ifixit.com/Troubleshooting/Refrigerator/Freezer+Not+Freezing/505020
+https://www.culliganappliances.com/blog/freezer-not-freezing",,,,,,
+,Freezer Not Freezing,Faulty Compressor,Mechanical Issues,Medium,Low,Loud buzzing or humming noise from the freezer,"The compressor is not functioning, preventing proper cooling.","Inspect and replace the compressor.
+1. Listen for any unusual sounds from the compressor (e.g., clicking or humming).
+2. Check the compressor for overheating or signs of damage.
+3. Use a multimeter to test compressor continuity. 
+4. Replace the compressor if it shows no continuity or is found malfunctioning.",Technician,,Compressor,,10-15 years,,,,,,,,,,,,Keep unit well-ventilated. Clean coils regularly.,,,,,,,,"https://www.familyhandyman.com/project/why-is-my-freezer-not-freezing/
+https://chiefappliance.com/freezer-running-not-cold-try-troubleshooting-tips/
+https://blog.puls.com/freezer-not-freezing-common-reasons-solutions
+https://www.ifixit.com/Troubleshooting/Refrigerator/Freezer+Not+Freezing/505020",,,,,,
+,Freezer Not Freezing,Worn-Out Door Gasket,Other,Medium,Low,"Freezer is not cold, and the door is not sealing properly","The door gasket is worn out, allowing warm air to enter the freezer.","Inspect and replace the freezer door gasket.
+1. Inspect the freezer door gasket for any signs of wear.
+2. If the door gasket is found at fault, replace it.",Easy-DIY,,Freezer Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,30-60 minutes,,Clean gasket regularly. Replace if damaged,,,,,,,,"https://www.ifixit.com/Troubleshooting/Refrigerator/Freezer+Not+Freezing+Ice+Cream/506960
+https://www.mrappliance.com/blog/2022/july/freezer-not-freezing-troubleshooting-tips-to-dro/
+https://servicedirect.com/freezer-not-freezing/",,,,,,
+,Freezer Not Freezing,Dirty Condenser Coils,Refrigeration System Issues,Low,Medium,Freezer not freezing properly. Refrigerator runs constantly or feels warm.,"Dust, pet hair, and debris clogging the condenser coils.","Clean the condenser coils.
+1. Unplug the refrigerator.
+2. Remove the base grille, if necessary.
+3. Use a refrigerator condenser coil cleaning brush to remove any dirt, dust, pet hair, etc., from the coils.
+4. Sweep or vacuum any dirt, dust, or pet hair from the floor around the area.
+5. Replace the grille, if necessary.
+6. Plug the refrigerator back into the wall outlet.",Easy-DIY,Coil Cleaning Brush,,,,,,,,,,,,,,,Clean condenser coils every 6 months. Ensure proper airflow around the refrigerator.,,,,,,,,"https://servicedirect.com/freezer-not-freezing/
+https://www.icarerepair.ca/why-is-my-freezer-not-getting-cold/
+https://allappliance.net/blog/freezer-not-freezing/",,,,,,
+,Freezer Not Freezing,Clogged Defrost Drain,Other,Low,Medium,Water pooling inside the freezer,"The defrost drain is clogged, preventing water from draining properly.","Clear the defrost drain using a pipe cleaner or hot water.
+1. Inspect the defrost drain for visible blockages (food, ice, or debris).
+2. Flush the drain with warm water or use a cleaning brush.
+3. Ensure water flows freely through the drain.
+4. If the defrost drain hose keeps on blocking even after cleaning it, then it could indicate a problem with defrost system.
+5. Test the defrost components i.e. defrost thermostat, defrost heater, and defrost timer, for continuity using a multimeter.
+6. If any of the components show no continuity or are found malfunctioning, replace accordingly. ",Medium-DIY,"Screwdriver, Multimeter",Defrost Thermostat,"Frequently Bought, Both",8-10 years,,Defrost Heater,,5-10 years,,Defrost Timer,,5-10 years,,60-120 minutes,,Look for water puddles. Flush drain with warm water,,,,,,,,"https://www.quora.com/What-can-be-the-problem-with-my-deep-freezer-which-is-not-working-due-to-water-draining-inside-of-garage-underneath-freezer-from-outside-water-faucet-being-left-on
+https://www.quora.com/What-can-be-the-problem-with-my-deep-freezer-which-is-not-working-due-to-water-draining-inside-of-garage-underneath-freezer-from-outside-water-faucet-being-left-on",,,,,,
+,Freezer Not Freezing,Refrigerant Leak,Refrigeration System Issues,Low,Low,"Freezer is not cold, and the condenser coils are hot","A refrigerant leak has caused low refrigerant levels, reducing cooling efficiency.","Repair the leak and recharge the refrigerant system.
+1. Inspect for visible leaks around the evaporator and condenser coils.
+2. Check the refrigerant charge with a gauge.
+3. Consult a technician to recharge or repair the refrigerant system if there is a leak.",Technician,,,,,,,,,,,,,,,,Avoid blocking vents or coils. Schedule professional maintenance for refrigerant checks.,,,,,,,,https://www.ifixit.com/Troubleshooting/LG_Refrigerator/LG+Freezer+Not+Freezing/506963,,,,,,
+,Freezer Not Freezing,Failed condenser fan,Mechanical Issues,Low,Low,Freezer warm; fridge section may still be cool; fan not running. Compressor runs hot.,"Condenser fan may be faulty, causing the freezer to stay warm.","Inspect and replace the condenser fan.
+1. Listen for the sound of the condenser fan running (if not, check for obstruction).
+2. Inspect the condenser fan blades and the fan motor for damage or wear.
+3. Test the fan motor with a multimeter for continuity. 
+4. Replace the fan motor if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter, Putty Knife",Condenser Fan Motor,,10-15 years,,Condenser Fan Blade,,10-20 years,,,,,,45-90 minutes,,Clean fan blades. Avoid debris buildup,,,,,,,,"https://www.mrappliance.com/blog/2022/july/freezer-not-freezing-troubleshooting-tips-to-dro
+https://www.ifixit.com/Troubleshooting/Refrigerator/Freezer+Not+Freezing+Ice+Cream/506960
+https://www.ifixit.com/Troubleshooting/Refrigerator/Freezer+Not+Freezing/505020",,,,,,
+,Freezer Not Freezing,Misaligned Door Hinges,Mechanical Issues,Low,Low,"Freezer door does not close properly, causing warm air to enter","The door hinges are misaligned, preventing a proper seal.","Realign or replace the door hinges.
+1. Check door alignment and hinges for visible wear or looseness.
+2. Test if the door closes properly when pushed.
+3. Tighten the hinges if misalignment is detected.
+4. If the problem persists, then the hinges may need to be replaced.",Easy-DIY,,Freezer Door Hinge,,10-20 years,,,,,,,,,,30-60 minutes,,Avoid slamming door. Ensure fridge is level,,,,,,,,https://ironmountainrefrigeration.com/2024/10/17/fridgefreezer-door-not-closing-properly/,,,,,,
+M004,Water Leakage ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Water Leakage ,Clogged Defrost Drain,Water Flow / Hydraulic Issues,High,Medium,Water pooling inside the refrigerator or under it.,"The defrost drain is clogged, preventing water from draining properly.","Clear the defrost drain using a pipe cleaner or hot water.
+1. Inspect the defrost drain for visible blockages (food, ice, or debris).
+2. Flush the drain with warm water or use a cleaning brush.
+3. Ensure water flows freely through the drain.
+4. If the defrost drain hose keeps on blocking even after cleaning it, then it could indicate a problem with defrost system.
+5. Test the defrost components i.e. defrost thermostat, defrost heater, and defrost timer, for continuity using a multimeter.
+6. If any of the components show no continuity or are found malfunctioning, replace accordingly. ",Medium-DIY,"Screwdriver, Multimeter",Defrost Thermostat,"Frequently Bought, Both",8-10 years,,Defrost Heater,,5-10 years,,Defrost Timer,,5-10 years,,60-120 minutes,Clean every 6 months,Clean drain line every 6 months,,,,,,,,"https://ajalberts.com/refrigerator-leaking-water/
+https://fixappliances.ca/leaking-fridge-causes-solutions/
+https://www.mrappliance.com/blog/2022/april/why-is-my-refrigerator-leaking-water-/#:~:text=Refrigerator%20Leaking%20Water?-,9%20Common%20Causes%20(and%20Solutions),Damaged%20drain%20pans",,,,,,
+,Water Leakage ,Cracked Water Supply Line,Water Flow / Hydraulic Issues,Medium,Low,Water leaking from the back or bottom of the refrigerator.,"The water supply line is cracked or damaged, causing a leak.","Inspect and replace the water supply line.
+1. Inspect visible water lines for cracks or leaks. 
+2. Replace the water line if it is found damaged.",Medium-DIY,,Water Supply Line,,5-10 years,,,,,,,,,,30-60 minutes,,Avoid moving fridge often. Use braided lines if possible,,,,,,,,"https://www.quora.com/What-causes-water-to-leak-from-under-refrigerators-even-though-there-is-no-visible-damage-cracks-on-their-underside-panels
+https://www.mrappliance.com/blog/2022/april/why-is-my-refrigerator-leaking-water-/
+https://excellenceappliancerepair.com/blog/fridge-leaking-water/",,,,,,
+,Water Leakage ,Faulty Water Inlet Valve,Water Flow / Hydraulic Issues,High,Medium,Water leaking near the ice maker or water dispenser.,"The water inlet valve is not closing properly, causing water to leak.","Replace the water inlet valve.
+1. Use a multimeter to test the valve for continuity.
+2. Inspect for clogs or any damage.
+3. Replace the water inlet valve if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Water Inlet Valve,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Inspect water inlet valve regularly.,,,,,,,,"https://www.partselect.com/Repair/Refrigerator/Leaking/
+https://www.commercialfridgerepairs.com.au/blog/why-is-your-fridge-filling-with-water-and-whats-the-solution-to-it/#:~:text=This%20valve%20is%20responsible%20for,Please%20enable%20it%20to%20continue.
+https://www.reliableappliancecs.com/blog/refrigerator-filling-with-water/#:~:text=Faulty%20Water%20Inlet%20Valve,for%20trusted%2C%20affordable%20refrigerator%20repair.",,,,,,
+,Water Leakage ,Improper Water Filter Connection,Water Flow / Hydraulic Issues,Medium,Medium,Water leaking around the water filter housing.,The water filter is not installed correctly or the seal is damaged.,"Inspect and replace the water filter area componenets.
+1. Check that the filter is seated properly. 
+2. Inspect for any drips or loose fittings
+3. Check the water filter housing for any damages or malfunctioning.
+4. If the water filter is seated properly and the housing is not at fault, replace the water filter..",Easy-DIY,Screwdriver,Water Filter,"Consumable, Both",0.5 years,0.5 years,Water Filter Housing,,10-20 years,,,,,,30-60 minutes,Replace every 6 months,Always follow manufacturer installation instructions,,,,,,,,"https://www.mrrooter.com/about/blog/2020/december/what-causes-a-fridge-to-leak-water-/
+https://fixappliances.ca/leaking-fridge-causes-solutions/
+https://www.taskrabbit.com/blog/why-is-my-refrigerator-leaking-water",,,,,,
+,Water Leakage ,Frozen Water Line,Water Flow / Hydraulic Issues,High,Medium,Water leaking inside the freezer or refrigerator.,"The water line is frozen, causing it to crack and leak.","Thaw the water supply line or replace it if necessary.
+1. Check if the line is frozen by feeling for cold spots.
+2. Defrost the line manually or unplug the fridge.
+3. Insulate the line if needed.",Easy-DIY,,,,,,,,,,,,,,,,Keep freezer temp at proper level; insulate if needed,,,,,,,,"https://servicemasteroflakeshore.com/fridge-water-line-is-leaking/#:~:text=The%20most%20common%20causes%20of,and%20straightening%20out%20line%20kinks.
+https://excellenceappliancerepair.com/blog/fridge-leaking-water/",,,,,,
+,Water Leakage ,Damaged Drain Pan,Water Flow / Hydraulic Issues,Medium,Medium,"The drain pan is cracked or damaged, causing water to leak out.",Replace the drain pan.,"Inspect and replace the drain pan.
+1. Remove rear access panel and locate the drain pan.
+2. Inspect the pan for cracks or overflow.
+3. Replace the drain pan, if found defective.",Easy-DIY,Screwdriver,Drain Pan,,10-15 years,,,,,,,,,,15-45 minutes,,Clean pan occasionally. Avoid overfilling,,,,,,,,"https://www.abchomeandcommercial.com/blog/fridge-leaking-water/
+https://www.mrappliance.com/madison-wi/about/blog/why-is-my-refrigerator-leaking-water-7-common-reasons/
+https://www.taskrabbit.com/blog/why-is-my-refrigerator-leaking-water",,,,,,
+,Water Leakage ,Faulty Ice Maker Assembly,Mechanical Issues,Low,Low,Water leaking from the ice maker.,"The ice maker assembly is cracked or damaged, causing water to leak.","Inspect or replace the ice maker module.
+1. Look for leaks under or near ice maker.
+2. Inspect connections and housing.
+4. Inspect the ice maker seals that can cause the leakage.
+3. If the ice maker assembly is found damaged, replace it.",Medium-DIY,Screwdriver,Ice Maker Assembly,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Check ice maker periodically. Replace worn seals,,,,,,,,"https://www.lg.com/us/support/help-library/lg-refrigerator-why-is-water-leaking-from-the-dispenser--1339008966664
+https://products.geappliances.com/appliance/gea-support-search-content?contentId=17382",,,,,,
+,Water Leakage ,Broken Door Seal,Other,Low,Medium,Water pooling inside the refrigerator due to condensation.,"The door seal is worn out, allowing warm air to enter and cause condensation.","Inspect and replace the door gasket.
+1. Inspect the door gasket for any signs of wear.
+2. If the door gasket is found at fault, replace it.",Easy-DIY,,Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,30-60 minutes,,Clean seals monthly. Avoid harsh cleaners,,,,,,,,"https://wilshirerefrigeration.com/why-is-my-fridge-leaking-water-inside-understanding-and-fixing-water-leaks/
+https://hbmcclure.com/hbhome/blog/why-is-my-refrigerator-leaking-water/
+https://excellenceappliancerepair.com/blog/fridge-leaking-water/",,,,,,
+,Water Leakage ,Overfilled Drip Pan,Water Flow / Hydraulic Issues,Medium,Low,Water leaking from the bottom of the refrigerator.,The drip pan is overfilled due to excessive defrost water.,"Inspect and replace the drain pan.
+1. Remove rear access panel and locate the drain pan.
+2. Check for water touching the floor.
+3. Empty and clean the pan.",Easy-DIY,,,,,,,,,,,,,,15-30 minutes,,Regularly inspect and clean drip pan,,,,,,,,"https://www.hooverdirect.co.uk/blogs/news/why-is-my-fridge-freezer-leaking-water-common-causes-and-solutions
+https://www.samsung.com/latin_en/support/home-appliances/what-should-i-do-when-water-leaks-from-the-drain-tray-of-the-refrigerator/",,,,,,
+,Water Leakage ,Frost buildup,Thermal Issues,Medium,Medium,Water pooling in or around freezer; water leakage due to melting ice.,"Defrost system malfunction (defrost timer, heater, or thermostat); door left open; poor air circulation.","Inspect and replace the defrost system.
+1. Check for icy buildup blocking drainage.
+2. Manually defrost the refrigerator.
+2. Use a multimeter to test the components of the defrost system i.e. defrost thermostat, defrost heater, and defrost timer for continuity.
+3. Inspect the defrost system components for any visible damage or breaks and ensure that the wire harness connections regarding them are intact.
+4. Replace the defrost system components if they shows no continuity or are found malfunctioning, accordingly.",Medium-DIY,"Screwdriver, Multimeter",Defrost Thermostat,"Frequently Bought, Both",8-10 years,,Defrost Heater,,5-10 years,,Defrost Timer,,5-10 years,,60-120 minutes,,Maintain working defrost system. Do not leave door open.,,,,,,,,https://excellenceappliancerepair.com/blog/fridge-leaking-water/,,,,,,
+,Water Leakage ,Improper leveling,Other,Low,Low,Water pooling around the appliance; refrigerator or freezer not sitting level; leaking from the door or base.,"Appliance not properly leveled, causing drainage or door seal issues.","Inspect the refrigerator for levelling.
+1. Make sure the refrigerator is levelled.
+2. Inspect the levelling legs for damage, and replace if found at fault.",Medium-DIY,Screwdriver,Levelling Legs,,10-20 years,,,,,,,,,,15-30 minutes,,Level fridge during installation. Re-check after moving.,,,,,,,,"https://www.taskrabbit.com/blog/why-is-my-refrigerator-leaking-water
+https://www.asurion.com/connect/tech-tips/how-to-fix-leaking-refrigerator/",,,,,,
+M005,Unusual Noises,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Unusual Noises,Loose or Worn-Out Fan Blades,Mechanical Issues,High,Medium,Loud buzzing or rattling noise from the refrigerator or freezer.,The evaporator or condenser fan blades are loose or worn out.,"Tighten or replace the fan blades.
+1. Inspect for wobbling or rattling noise.
+2. Check the evaporator and the condensor fan blades for damage.
+3. If any of them is found at fault, replace accoedingly.",Medium-DIY,Screwdriver,Evaporator Fan Blades,,10-20 years,,Condensor Fan Blades,,10-20 years,,,,,,30-45 minutes,,,,,,"Buzzing, Rattling",,,,"https://becoolrefrigeration.co.uk/fridge-fan-making-noise/
+https://nobleappliancerepairatlanta.com/blog/why-your-refrigerator-is-making-strange-noises-causes-fixes/#:~:text=What%20Sounds%20Are%20Unusual%20for,minor%20issues%20become%20major%20repairs.",,,,,,
+,Unusual Noises,Faulty Evaporator Fan Motor,Mechanical Issues,High,Medium,High-pitched squealing or grinding noise from the freezer.,The evaporator fan motor is faulty or failing.,"Inspect and replace the evaporator fan motor.
+1. Listen for the sound of the evaporator fan running (if not, check for obstruction).
+2. Inspect the evaporator fan motor for damage or wear.
+3. Replace the fan motor if it is found at fault.",Medium-DIY,Screwdriver,Evaporator Fan Motor,Frequently Bought,8-12 years,,,,,,,,,,45-90 minutes,,Clean fan area regularly. Replace noisy motors promptly,,,,"Squealing,Grinding",,,,"https://www.tcl.com/global/en/blog/tips/how-to-fix-a-noisy-refrigerator
+https://www.homeserve.com/en-us/blog/home-improvement/refrigerator-squealing-noise/#:~:text=A%20broken%20or%20worn%2Dout,a%20compressor%20that%20runs%20constantly.
+https://www.icarerepair.ca/addressing-unusual-fridge-noises/
+https://www.quora.com/My-fridge-freezer-periodically-makes-a-loud-sound-which-can-sometimes-rattle-I-suspect-its-a-problem-with-the-compressor-Any-suggestions-on-how-to-fix-this-problem#:~:text=Check%20the%20fans,clog%20this%20valve%20over%20time.",,,,,,
+,Unusual Noises,Faulty Compressor,Mechanical Issues,High,Low,"Loud knocking, buzzing, or humming noise from the back of the refrigerator.",The compressor is malfunctioning or failing.,"Inspect and replace the compressor.
+1. Listen for any unusual sounds from the compressor (e.g., clicking or humming).
+2. Check the compressor for overheating or signs of damage.
+3. Replace the compressor if it is found malfunctioning.",Technician,Screwdriver,Compressor,,10-15 years,,,,,,,,,,-,-,Ensure proper ventilation. Service unit annually,,,,"Buzzing, Humming",,,,"https://www.tcl.com/global/en/blog/tips/how-to-fix-a-noisy-refrigerator
+https://www.bajajfinserv.in/how-to-fix-refrigerator-noises",,,,,,
+,Unusual Noises,Faulty Condenser Fan Motor,Mechanical Issues,High,Low,Loud buzzing or humming noise from the back or bottom of the refrigerator.,The condenser fan motor is faulty or failing.,"Inspect and replace the condenser fan motor.
+1. Listen for the sound of the condenser fan running (if not, check for obstruction).
+2. Inspect the condenser fan motor for damage or wear.
+3. Replace the fan motor if it is found at fault.",Medium-DIY,Screwdriver,Condenser Fan Motor,,10-15 years,,,,,,,,,,45-90 minutes,,Clean coils and fan area. Replace motor if noisy,,,,"Buzzing, Humming",,,,"https://www.mrappliance.com/blog/2018/june/silence-a-loud-refrigerator/#:~:text=Loud%20noises%20coming%20from%20the,through%20the%20freezer%20and%20fridge.
+https://www.tcl.com/global/en/blog/tips/how-to-fix-a-noisy-refrigerator",,,,,,
+,Unusual Noises,Loose or Damaged Drain Pan,Mechanical Issues,Low,Low,Rattling or vibrating noise from the bottom of the refrigerator.,"The drain pan is loose or damaged, causing vibrations.","Inspect and replace the drain pan.
+1. Remove rear access panel and locate the drain pan.
+2. Check for damages.
+3. Replace the drain pan if it is found at fault.",Medium-DIY,Screwdriver,Drain Pan,,10-15 years,,,,,,,,,,30-45 minutes,,Secure pan during installation. Clean and check during maintenance,,,,"Rattling, Vibrating",,,,"https://www.icarerepair.ca/addressing-unusual-fridge-noises/#:~:text=If%20the%20loud%20noise%20comes%20from%20the,the%20drain%20pan%20that%20has%20come%20loose.
+https://chiefappliance.com/troubleshooting-refrigerator-noises/#:~:text=These%20sounds%20often%20indicate%20loose,Clicks%20&%20Pops
+https://www.mrappliance.com/blog/2018/june/silence-a-loud-refrigerator/",,,,,,
+,Unusual Noises,Faulty Start Relay,Mechanical Issues,Low,Medium,Clicking or buzzing noise from the back of the refrigerator.,"The start relay is faulty, causing the compressor to struggle to start.","Inspect and replace the compressor start relay.
+1. Access the compressor start relay and listen for repeated clicking without compressor start-up.
+2. If the start relay keeps on making the clicking sound and the compressor does not start, replace the start relay.",Medium-DIY,Screwdriver,Compressor Start Relay,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,,,,,Clicking,,,,"https://www.justanswer.com/appliance/iqkua-fridge-not-working-its-making-clicking-sound.html
+https://chiefappliance.com/troubleshooting-refrigerator-noises/#:~:text=These%20sounds%20often%20indicate%20loose,Clicks%20&%20Pops
+https://www.skillcatapp.com/post/refrigerator-troubleshooting-primary-components-secondary-components#:~:text=Let%20us%20take%20a%20look,may%20have%20a%20defective%20compressor.",,,,,,
+,Unusual Noises,Ice Maker Jammed or Misaligned,Mechanical Issues,Low,Low,Grinding or clicking noise from the ice maker.,"The ice maker is jammed or misaligned, causing unusual sounds.","Inspect and replace the ice maker.
+1. Access the ice maker and make sure it is not jammed due to frost.
+2. Check the ice maker assembly for any damage or malfunctioning.
+3. Replace the ice maker if it is found at fault.",Medium-DIY,Screwdriver,Ice Maker Assembly,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Avoid overfilling bin. Regularly clean and align ice maker,,,,"Clicking, Clunking, Grinding",,,,"https://www.whirlpool.com/blog/kitchen/ice-maker-troubleshooting.html#:~:text=Unlevel%20refrigerator%20or%20ice%20maker&text=Solution:%20First%2C%20use%20a%20leveler,the%20entire%20unit%20is%20unlevel.
+https://techvillappliancerepair.ca/fridge-ice-maker-not-working/#:~:text=3.-,Misaligned%20fill%20valve%20and%20cup,1.",,,,,,
+,Unusual Noises,Water Valve Issues,Water Flow / Hydraulic Issues,Low,Low,Buzzing or knocking noise from the water valve.,The water valve is malfunctioning or has debris inside.,"Unusual fridge water valve noises are often caused by low water pressure, air in the line, a frozen line, or a faulty valve. Check water pressure, thaw frozen lines, flush air, and replace the valve if defective.",Medium-DIY,"Adjustable wrench, Screwdrivers, Multimeter",Water Inlet Valve,Frequently Bought,5-10 years,5-8 years,,,,,,,,,30-60 minutes,,Replace the water filter every 6 months to prevent clogs and pressure issues. Ensure proper water pressure (20–120 psi) using a gauge or plumber’s help. Avoid kinking the water supply line when moving the fridge.,,,,,,,,"https://nobleappliancerepairatlanta.com/blog/why-your-refrigerator-is-making-strange-noises-causes-fixes/
+https://apexapplianceservice.com/san-marcos-ca/refrigerator-repair/#:~:text=If%20your%20refrigerator%20is%20making%20loud%20noises,be%20replaced%20by%20a%20refrigerator%20service%20technician.",,,,,,
+,Unusual Noises,Frost Buildup in Freezer,Thermal Issues,Low,Low,Crackling or popping noise from the freezer.,Frost buildup is causing ice to crack or pop during the defrost cycle.,"Manually defrost the freezer and check the defrost system.
+1. Check for icy buildup in the freezer.
+2. Manually defrost the freezer.
+2. Use a multimeter to test the components of the defrost system i.e. defrost thermostat, defrost heater, and defrost timer for continuity.
+3. Inspect the defrost system components for any visible damage or breaks and ensure that the wire harness connections regarding them are intact.
+4. Replace the defrost system components if they shows no continuity or are found malfunctioning, accordingly.""",Medium-DIY,"Screwdrivers, Multimeter",Defrost Thermostat,"Frequently Bought, Both",5-10 years,,Defrost Heater,,5-10 years,,Defrost Timer,,5-10 years,,60-120 minutes,,Defrost regularly. Fix defrost cycle if needed,,,,,,,,"https://www.mrappliance.com/blog/2018/june/silence-a-loud-refrigerator/#:~:text=Check%20for%20frost%20buildup%20in,the%20extent%20of%20the%20damage.
+https://www.mrappliance.com/blog/2018/june/silence-a-loud-refrigerator/#:~:text=Check%20for%20frost%20buildup%20in,the%20extent%20of%20the%20damage.",,,,,,
+,Unusual Noises,Refrigerant Leaks,Refrigeration System Issues,Low,Low,Hissing or bubbling noises; inconsistent cooling or no cooling.,Leak in the refrigerant lines; punctured evaporator or condenser coils.,"Repair the leak and recharge the refrigerant system.
+1. Inspect for visible leaks around the evaporator and condenser coils.
+2. Check the refrigerant charge with a gauge.
+3. Consult a technician to recharge or repair the refrigerant system if there is a leak.",Technician,,,,,,,,,,,,,,,,Annual check-up by technician. Avoid puncturing coil lines.,,,,,,,,"https://fixappliances.ca/refrigerator-repair/freezer-not-working-clicking-sound/#:~:text=Refrigerant%20Disruptions.%20The%20flow%20of%20refrigerant%20is,it%20struggles%20to%20maintain%20the%20cooling%20cycle.",,,,,,
+,Unusual Noises,Dirty Condenser Coils,Refrigeration System Issues,Low,Medium,Loud humming or buzzing noises; reduced cooling efficiency; increased compressor noise.,"Dust, dirt, pet hair, or debris blocking the condenser coils.","Clean the condenser coil:
+1. Unplug the refrigerator.
+2. Remove the base grille, if necessary.
+3. Use a refrigerator condenser coil cleaning brush to remove any dirt, dust, pet hair, etc., from the coils.
+4. Sweep or vacuum any dirt, dust, or pet hair from the floor around the area.
+5. Replace the grille, if necessary.
+6. Plug the refrigerator back into the wall outlet.",Easy-DIY,Coil Cleaning Brush,,,,,,,,,,,,,,,Vacuum coils every 6 months,,,,,,,,"https://www.asurion.com/connect/tech-tips/how-to-fix-noisy-refrigerator/
+https://www.bajajfinserv.in/how-to-fix-refrigerator-noises",,,,,,
+M006,Foul Odor Inside ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Foul Odor Inside ,Spoiled Food,Other,High,High,Foul odor coming from the refrigerator compartment.,Spoiled or expired food is causing a bad smell.,"Remove spoiled food and clean the interior.
+1. Check for expired items in the refrigerator.
+2. Inspect for leakage and strong smells.
+3. Clean the interior with a mild detergent.",Easy-DIY,,,,,,,,,,,,,,,,Regularly clean out fridge. Use food-safe containers.,,,,,,,,"https://www.samsung.com/ae/support/home-appliances/how-can-i-get-rid-of-the-bad-odor-in-my-refrigerator/#:~:text=Check%20the%20inside%20of%20your,into%20the%20fridge%20and%20freezer.
+https://www.whirlpool.com/blog/kitchen/how-to-remove-smell-from-refrigerator.html
+https://www.quora.com/What-are-some-common-reasons-your-refrigerator-might-smell
+https://go-assist.co.uk/blog/why-does-your-fridge-smell",,,,,,
+,Foul Odor Inside ,Stagnant Water in Drip Tray,Other,High,Medium,Musty or moldy smell coming from the bottom of the refrigerator.,Stagnant water in the drip tray is causing mold growth.,"Clean the drip tray.
+1. Remove access panel.
+2. Inspect tray for odors, mold, or overfilling.
+3. Clean the drip tray with a mixture of water and vinegar.
+",Easy-DIY,,,,,,,,,,,,,,,,Empty and clean tray monthly,,,,,,,,"https://www.shipitappliances.co.uk/refrigeration/common-fridge-faults-and-how-to-fix-them
+https://www.sos-parts.com/fridge-smells-bad.html
+https://www.samsung.com/in/support/home-appliances/how-to-prevent-odor-in-refrigerator/",,,,,,
+,Foul Odor Inside ,Bad Water Filter,Other,High,Medium,Musty smell near the water dispenser or ice maker.,Mold has grown inside the water filter or housing.,"Replace the water filter and clean the housing.
+1. Inspect the water filter housing for any molds.
+2. Clean the water filter housing.
+3. Check the water filter for any blockages or molds.
+4. If the water filter is older than 6 months or is found at fault, replace it.",Easy-DIY,,Water Filter,"Consumable, Both",0.5 years,0.5 years,,,,,,,,,,6 months,Replace every 6 months or per manufacturer’s schedule,,,,,,,,"https://www.samsung.com/in/support/home-appliances/how-to-prevent-odor-in-refrigerator/
+https://www.shipitappliances.co.uk/refrigeration/common-fridge-faults-and-how-to-fix-themm
+https://www.waterdropfilter.com/blogs/home-and-wellness/why-your-fridge-smelll",,,,,,
+,Foul Odor Inside ,Dirty Shelves and Drawers,Other,Medium,Medium,Foul odor inside the refrigerator compartment.,Spills or food residue on shelves and drawers are causing odors.,"Remove and clean shelves and drawers.
+1. Check all the drawers and shelves for any spills, mold, or stickiness.
+2. Remove and clean the respective drawers and shelves with warm, soapy water.",Easy-DIY,,,,,,,,,,,,,,,,Remove and clean monthly with mild soap,,,,,,,,https://www.ortegasappliance.com/blog/why-does-my-sub-zero-refrigerator-smell-bad/,,,,,,
+,Foul Odor Inside ,Faulty Air Filter,Other,Medium,Medium,Foul odor persists even after cleaning.,"The air filter is dirty or clogged, failing to neutralize odors.","Replace the air filter.
+1. Check if filter is overdue for replacement.
+2.  Detect stale or sour smell.
+3. Replace the air filter.",Easy-DIY,,Air Filter,"Consumable, Both",0.5 years,0.5 years,,,,,,,,,,6 months,Replace every 6 months,,,,,,,,"https://www.whirlpool.com/blog/kitchen/how-to-remove-smell-from-refrigerator.html
+https://www.lg.com/africa/support/product-help/CT20080033-20153147672829
+https://mooreapplianceservice.com/blog/whirlpool-refrigerator-smells-bad/",,,,,,
+,Foul Odor Inside ,Dirty Condenser Coils,Refrigeration System Issues,Low,Medium,Burning or dusty smell coming from the back of the refrigerator.,Dust and debris on the condenser coils are causing overheating and odors.,"Clean the condenser coil:
+1. Unplug the refrigerator.
+2. Remove the base grille, if necessary.
+3. Use a refrigerator condenser coil cleaning brush to remove any dirt, dust, pet hair, etc., from the coils.
+4. Sweep or vacuum any dirt, dust, or pet hair from the floor around the area.",Easy-DIY,Coil Cleaning Brush,,,,,,,,,,,,,,,Clean every 6 months,,,,,,,,"https://www.quora.com/Why-does-the-inside-of-my-refrigerator-smell-like-rotten-garbage
+https://fredsappliance.com/refrigerator-repair/5-reasons-your-refrigerator-smells/
+https://www.nelaappliancerepair.com/blog/frigidaire-refrigerator-smells-bad/",,,,,,
+,Foul Odor Inside ,Clogged Drain,Water Flow / Hydraulic Issues,Low,Medium,Foul odor coming from the freezer or refrigerator compartment.,"The drain tube is clogged, causing stagnant water and mold growth.","Clear the defrost drain using a pipe cleaner or hot water.
+1. Inspect the defrost drain for visible blockages (food, ice, or debris).
+2. Flush the drain with warm water or use a cleaning brush.
+3. Ensure water flows freely through the drain.
+4. If the defrost drain hose keeps on blocking even after cleaning it, then it could indicate a problem with defrost system.
+5. Test the defrost components i.e. defrost thermostat, defrost heater, and defrost timer, for continuity using a multimeter.
+6. If any of the components show no continuity or are found malfunctioning, replace accordingly. ",Easy-DIY,, ,,,,,,,,,,,,,,Flush with hot water or vinegar solution regularly,,,,,,,,"https://www.quora.com/What-are-some-common-reasons-your-refrigerator-might-smell
+https://www.quora.com/What-causes-a-fridge-to-smell-bad-when-you-open-it
+https://www.nelaappliancerepair.com/blog/frigidaire-refrigerator-smells-bad/",,,,,,
+,Foul Odor Inside ,Worn-Out Door Gasket,Other,Low,Low,Musty smell near the refrigerator door.,"The door gasket is worn out, allowing warm air and odors to enter.","Inspect and replace the door gasket.
+1. Inspect the door gasket for any signs of wear.
+2. If the door gasket is found at fault, replace it.",Easy-DIY,,Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,,,Clean seal monthly. Replace if cracked or loose,,,,,,,,"https://www.subzero-wolf.com/assistance/answers/sub-zero/common/odorinside-a-refrigerator
+https://www.whirlpool.com/blog/kitchen/how-to-remove-smell-from-refrigerator.html#:~:text=Clean%20the%20refrigerator%20gasket,with%20a%20clean%2C%20soft%20cloth.",,,,,,
+,Foul Odor Inside ,Moldy Ice Maker,Other,Low,Low,Foul odor coming from the ice maker or ice cubes.,Mold has grown inside the ice maker or water supply line.,"Clean the ice maker and water supply line.
+1. Inspect for discolored or bad-smelling ice.
+2. Check ice bin for any molds.
+3. Clean the water supply line using a vinegar solution.
+4. Check the ice maker module for any molds and clean it accordingly.",Easy-DIY,,,,,,,,,,,,,,,,Empty bin regularly. Sanitize monthly,,,,,,,,"https://www.easyice.com/how-to-clean-ice-maker-mold-slime/#:~:text=As%20sugar%20and%20yeast%20enter,moisture%20for%20mold%20and%20slime.
+https://www.frizzlife.co.uk/blogs/news/why-does-my-fridge-smell#::~:text=Expired%20Activated%20Carbon%20Filter,time%20to%20replace%20the%20filter!",,,,,,
+,Foul Odor Inside ,Dirty Evaporator Coils,Refrigeration System Issues,Low,Medium,Musty or burning smell coming from the freezer.,Dust and debris on the evaporator coils are causing odors.,"Clean the evaporator coils.
+1. Unplug unit and check behind interior panel for dust or mold. 
+2. Access the evaporator coils and clean them using a vacuum or coil brush.",Easy-DIY,Coil Cleaning Brush,,,,,,,,,,,,,,,Clean every 12 months or as needed,,,,,,,,"https://www.justanswer.com/appliance/848wr-causing-reoccuring-chemical-smell-coming.html#:~:text=The%20only%20thing%20that%20would,Thank%20you!
+https://www.whirlpool.com/blog/kitchen/how-to-remove-smell-from-refrigerator.html#::~:text=Dirty%20evaporator%20coils%20can%20be,bad%20and%20not%20run%20properly.",,,,,,
+,Foul Odor Inside ,Old ice,Other,Low,Low,Unpleasant smell inside freezer or fridge; ice with an off or stale odor.,"Old ice stored for a long period, absorbing odors from food or freezer.","Remove old ice.
+1. Smell or taste ice cubes.
+2. Inspect the ice for clumpness.
+3. Clean the ice tray or bin; replace with fresh ice.",Easy-DIY,,,,,,,,,,,,,,,,Discard unused ice weekly. Clean bin regularly,,,,,,,,"https://www.samsung.com/au/support/home-appliances/refrigerator-has-bad-odour/
+https://www.quora.com/Whats-in-the-back-of-your-fridge-thats-causing-that-funky-smell
+https://www.quora.com/Why-does-the-inside-of-my-refrigerator-smell-like-rotten-garbage",,,,,,
+,Foul Odor Inside ,Air circulation,Other,Low,Medium,Foul odors lingering in the fridge or freezer; uneven cooling or warm spots.,Blocked vents or dirty fan; poor airflow affecting odor dispersion.,"Clear air vents and fan blades.
+1. Ensure that the air vents are not blocked.
+2. Look for stagnant zones with spoiled smell.
+3. Clean the air vents and fan blades.",Easy-DIY,,,,,,,,,,,,,,,,Avoid overpacking fridge. Ensure clear air paths,,,,,,,,"https://www.quora.com/What-causes-a-fridge-to-smell-bad-when-you-open-it
+https://www.quora.com/Why-does-my-fridge-and-freezer-stink-I-ve-thoroughly-cleaned-it-out-cleared-the-drain-bleached-the-drip-pan-cleaned-the-coils-and-the-pan-below-the-coils-The-smell-only-seems-to-get-worse
+https://www.nelaappliancerepair.com/blog/frigidaire-refrigerator-smells-bad/",,,,,,
+,Water Dispenser Not Working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Water Dispenser Not Working,Faulty Water Inlet Valve,Water Flow / Hydraulic Issues,High,High,Water dispenser is not dispensing water,"Water inlet valve may be faulty, causing the water to not enter the refrigerator, resulting in no dispensing of water.","Inspect and replace the water inlet valve.
+1. Use a multimeter to test the valve for continuity.
+2. Inspect for clogs or any damage.
+3. Replace the water inlet valve if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Water Inlet Valve,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Install water filters. Periodically inspect the valve for mineral buildup.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,"Faulty Dispenser Switch
+",Mechanical Issues,High,Medium,No water dispenses when pressing the dispenser lever.,The switch may have failed internally and is no longer completing the electrical circuit when pressed.,"Inspect and replace the dispenser switch.
+1. Make sure the wire harness regarding the switch is intact.
+2. Use a multimeter to test the switch for continuity.
+3. Inspect for physical damage or lack of movement when pressing the lever.
+4. Replace the dispenser switch if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Dispenser Switch,,5-10 years,,,,,,,,,,20-45 minutes,,Avoid excessive force on the dispenser lever. Check electrical connections periodically.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Misaligned Water Filter,Water Flow / Hydraulic Issues,High,Medium,Water dispenser not working or dispensing very little water after filter replacement.,The water filter is not installed correctly or the seal is damaged.,"Inspect and replace the water filter area componenets.
+1. Check that the filter is seated properly. 
+2. Inspect for any drips or loose fittings
+3. Check the water filter housing for any damages or malfunctioning.
+4. If the water filter is seated properly and the housing is not at fault, replace the water filter..",Easy-DIY,,Water Filter,"Consumable, Both",0.5 years,0.5 years,,,,,,,,,30-60 minutes,Replace every 6 months,Always follow manufacturer installation instructions.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Faulty Dispenser Control Board,Control or Software Issues,Medium,Medium,"Water dispenser is completely unresponsive; no lights, no sounds, and no water flow, even when the actuator and switch are working.","The internal electronics may have shorted out, causing the dispenser control board to be unresponsive.","Replace the dispenser control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the dispenser control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Dispenser Control Board,,5-10 years,,,,,,,,,,60-120 minutes,,Ensure proper voltage supply. Avoid power surges. Regularly clean the dispenser control board area.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Damaged Water Filter Housing,Mechanical Issues,Medium,Low,Water leaking around the water filter housing.,"The water filter housing is damaged, causing the water to not reach the dispenser","Inspect and replace the water filter housing.
+1. Inspect the water filter housing for any damages or malfunctioning.
+2. If the water filter is seated properly and the housing is found at fault, replace the water filter housing.",Medium-DIY,Screwdriver,Water Filter Housing,,10-20 years,,,,,,,,,,30-60 minutes,,Periodically inspect for any damages.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Faulty Dispenser Actuator,Mechanical Issues,Medium,Low,"Pressing the dispenser lever or pad does nothing; no click, no sound, no water.","The actuator may be physically broken, preventing it from contacting or triggering the dispenser switch.","Inspect and replace the dispenser actuator.
+1. Remove the front dispenser cover to inspect alignment and ensure the actuator contacts the switch correctly.
+2. Inspect the actuator lever for cracks, warping, or looseness.
+3. If the actuator is found at fault, replace it.",Medium-DIY,Screwdriver,Dispenser Actuator,,5-10 years,,,,,,,,,,20-45 minutes,,Clean the Actuator Area Regularly. Inspect for Physical Wear or Looseness,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Water Dispenser Control is Locked,Other,Medium,Low,"No water comes out, and the control panel shows a “Lock” icon or won’t respond to dispenser commands.","The dispenser control lock feature is on, causing the dispenser to not work.",Turn off the control lock feature using the instructions given in the user manual and then try dispensing the water again.,Easy-DIY,,,,,,,,,,,,,,5-10 minutes,,Make sure the control lock feature is not turned on accidentally.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Faulty Main Control Board,Control or Software Issues,Medium,Low,"Water dispenser completely unresponsive; no water flow, no lights, no sounds when pressing the lever.","The main control board controls the electrical signals for many functions, including the water dispenser. If it malfunctions, it may stop sending signals to the dispenser valve or switch.","Replace the main control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the main control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Main Control Board,,5-10 years,,,,,,,,,,60-120 minutes,,Ensure proper voltage supply. Avoid power surges. Regularly clean the main control board area.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Kinked Water Supply Line,Water Flow / Hydraulic Issues,Low,Low,"Water dispenser delivers little or no water, or there is a delay in water flow when the dispenser is activated.","The water supply line might be kninked, causing the water to not flow properly.",Check the water supply line for any kinks and clear them so that the water can flow freely and reach the dispenser.,Easy-DIY,,,,,,,,,,,,,,10-15 minutes,,Regularly inspect the water supply lines.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Water Tube in Door is Frozen,Water Flow / Hydraulic Issues,Low,Low,"No water dispenses, or there’s a delay in water flow, even though the rest of the refrigerator seems to be functioning normally. The dispenser may also make a clicking or gurgling sound as the frozen water thaws.","A frozen water supply tube in the refrigerator door can block the water flow to the dispenser, causing the dispenser to not work.",Ensure the water line is not routed through overly cold parts of the refrigerator or freezer. Thaw the frozen water line,Easy-DIY,,,,,,,,,,,,,,10-15 minutes,,Regularly inspect the water supply lines.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Low Water Pressure from House Supply,Water Flow / Hydraulic Issues,Low,Low,"Water dispenser produces very little water or no water at all, even though the dispenser lever is pressed.","The water pressure from the house supply is low, causing the refrigerator to not receive sufficient pressure to operate the water dispenser.","Check the house water supply and make sure it is turned on and not malfunctioning. If the house water supply is at fault, the water can not reach the dispenser even if all the other parts are functioning properly.",Easy-DIY,,,,,,,,,,,,,,15-30 minutes,,Make sure the house supply water lines are not clogged over time.,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Water Dispenser Not Working,Door Not Fully Closing,Mechanical Issues,Low,Low,"Water dispenser is not working, and the refrigerator door does not close properly or stays ajar.","The door gasket or seal may be worn out or the door hinges may be misaligned, preventing the door from closing completely, which can affect the refrigerator's ability to function properly, including the water dispenser.","Inspect and replace the door components.
+1. Check the door gasket for any damages.
+2. Replace the door gasket if it is causing the malfunction.
+3. If the gasket is fine, inspect the door hinges for any misalignment or physical damage.
+4. Replace the hinges if found faulty.",Medium-DIY,Screwdriver,Door Gasket,Frequently Bought,5-10 years,3-5 years,Door Hinge,,10-20 years,,,,,,30-60 minutes,,Avoid slamming door. Ensure fridge is level,,,,,,,,https://www.repairclinic.com/RepairHelp/Refrigerator-Repair-Help,,,,,,
+,Refrigerator ice dispenser not working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator ice dispenser not working,Faulty Water Inlet Valve,Mechanical Issues,High,High,"You press the ice dispenser lever or pad, but no ice comes out; and there may be little or no ice in the ice bin.","Water inlet valve may be faulty, causing the water to not enter the refrigerator, resulting in no dispensing of ice.","Inspect and replace the water inlet valve.
+1. Use a multimeter to test the valve for continuity.
+2. Inspect for clogs or any damage.
+3. Replace the water inlet valve if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Water Inlet Valve,Frequently Bought,5-10 years,,,,,,,,,,30-60 minutes,,Install water filters. Periodically inspect the valve for mineral buildup.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Broken Crushed/Cubed Ice Solenoid,Mechanical Issues,High,High,"No ice dispenses at all, and a clicking or buzzing sound may be heard when trying to switch modes.",The ice dispenser solenoid may have failed internally and is no longer allowing the dispenser to dispense ice.,"Inspect and replace the dispenser switch.
+1. Make sure the wire harness regarding the dispenser solenoid is intact.
+2. Use a multimeter to test the solenoid for continuity.
+3. Replace the dispenser solenoid if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Ice Dispenser Solenoid,,5-10 years,,,,,,,,,,30-45 minutes,,,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Faulty Ice Maker Assembly,Mechanical Issues,High,Medium,"You press the ice dispenser lever, but no ice comes out; and the ice bin is empty or hasn’t refilled in a long time.",The ice maker module is malfunctioning and not initiating the ice-making process.,"Inspect and replace the ice maker.
+1. Access the ice maker and make sure it is not jammed due to frost.
+2. Check the ice maker assembly for any damage or malfunctioning.
+3. Replace the ice maker if it is found at fault.",Medium-DIY,Screwdriver,Ice Maker Assembly,Frequently Bought,5-10 years,,,,,,,,,,45-90 minutes,,Avoid overloading freezer area. Perform periodic diagnostics.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Faulty Dispenser Switch,Mechanical Issues,Medium,Medium,"Press the dispenser paddle and nothing happens—no sound, no motor movement, no ice.","A faulty dispenser switch can prevent the ice dispenser from working by failing to send power to the auger motor when the lever is pressed. This may be due to wear, corrosion, or a broken actuator.","Use a multimeter to check the continuity of the dispenser switch. If the switch is found to be faulty, replace it with a compatible new switch. Ensure that the actuator properly activates the switch and examine the wiring for any signs of looseness or damage.",Medium-DIY,"Screwdrivers, Multimeter, Pliers",Dispenser Switch,,5-10 years,,,,,,,,,,30-60 minutes,,Wipe down the dispenser area regularly. Ensure the ice dispenser area is free from blockages and that the actuator moves smoothly. Periodically remove debris or dirt around the switch.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Faulty Auger Motor,Mechanical Issues,Medium,Medium,"Ice dispenser is not working, with no ice dispensed and no movement or noise from the auger motor.","A faulty auger motor could be preventing the ice from dispensing. The motor may be damaged, the wiring could be loose, or there may be a blockage or ice jam preventing the motor from functioning.","To fix the ice dispenser, first unplug the refrigerator. Check for ice jams in the bin. Use a multimeter to test the auger motor by checking for continuity. Set the multimeter to continuity mode and test the motor terminals—if there’s no continuity, replace the motor. Inspect the wiring for any loose connections. Once replaced, reassemble the dispenser and test it to ensure proper function.",Medium-DIY,"Screwdrivers, Multimeter, Pliers",Auger Motor,,5-10 years,5-7 years,,,,,,,,,60-120 minutes,,"Regularly clear the ice bin and ensure it’s not overfilled, preventing blockages that can strain the motor. Keep the dispenser and motor area clean and dry. Ensure the auger and related components are properly aligned. Regular maintenance and care can significantly extend the lifespan of the auger motor.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Faulty Dispenser Control Board,Control or Software Issues,Low,Low,"No response or inconsistent function from the ice dispenser, even though other components (like the door switch or paddle) appear to work.","The dispenser's control board coordinates signals between the switch, auger motor, and ice maker. A fault here can stop the dispenser from receiving power, shown by no sound, light, or motor activity when the lever is pulled, even if switches and motors are operational.","Unplug the refrigerator and inspect the dispenser control board (usually behind the dispenser panel). Check for visible damage like burnt spots or corrosion. Use a multimeter to test output voltage if comfortable. If the board is unresponsive or shows signs of failure, replace it with a model-specific replacement. Reassemble the panel and test the dispenser.",Medium-DIY,"Screwdrivers, Multimeter, Pliers",Dispenser Control Board,,7-10 years,5-8 years,,,,,,,,,60-120 minutes,,"Keep the dispenser area dry, use a surge protector for the fridge, and avoid slamming or rough use of the dispenser paddle to reduce strain on the board.
+
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Faulty Main Control Board,Control or Software Issues,Low,Low,Dispenser unresponsive; no power to dispenser components.,"The main control board controls the electrical signals for many functions, including the ice dispenser. If it malfunctions, it may stop sending signals to the dispenser valve or switch.","Replace the main control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the main control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Main Control Board,,8-15 years,5-7 years,,,,,,,,,60-120 minutes,,Protect against power surges. Ensure proper ventilation. Perform regular maintenance.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Broken Dispenser Door,Mechanical Issues,Low,Low,"Dispenser door not opening, and no ice being dispensed.","The door may be stuck open or closed, preventing ice from being dispensed.","1. Open the dispenser door manually (if possible) and check for ice buildup around the door, ice chute, or any moving parts.
+2, Look for clogs caused by ice or debris that might be preventing the door from functioning.
+3. Clear debris from the dispenser door and ice chute area to ensure smooth movement.
+4. Test the dispenser solenoid and actuator switch for continuity using a multimeter.
+5. If any of them show no continuity, replace accordingly.",Medium-DIY,"Screwdriver, Multimeter",Ice Dispenser Solenoid,,5-10 years,,,,,,,,,,30-60 minutes,,Regularly clean the dispenser door and ice chute. Keep the solenoid mechanism clean and functional. Prevent ice buildup in the chute.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Ice chute jammed,Mechanical Issues,Low,Low,"The auger motor is running, but no ice comes out. Ice may be visibly stuck in the chute.","The ice chute may be jammed with clumped or partially melted ice. This usually happens due to humidity, infrequent use, or temperature fluctuations causing the ice to melt slightly and refreeze, forming a blockage.","Unplug the refrigerator, open the ice chute, and visually inspect it. Use a wooden or plastic utensil to gently break up any jammed ice. If ice buildup is severe, let it melt naturally or use warm water (with caution) to clear the blockage. Dry the chute thoroughly before use to prevent re-freezing. Avoid using sharp objects to prevent damage.",Easy-DIY,"Wooden or plastic spatula, Cloth/towel, Hair dryer ",Ice Chute,,5-10 years,,,,,,,,,,10-30 minutes,,Use the dispenser regularly to prevent ice from sitting too long. Keep the freezer door closed tightly and check the chute for moisture buildup. Occasionally inspect and clear the chute if ice hasn’t been used for a while.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Misaligned Ice Bucket Assembly,Mechanical Issues,Low,Low,Ice dispenser runs but no ice comes out.,"The ice bucket may not be seated properly, or the drive mechanism is worn out.","Inspect the ice bucket assembly.
+1. Remove and reinsert the ice bucket. Make sure it’s fully seated and aligned with the motor coupler.
+2. Check the ice bucket for any frost buildup.
+3. Try rotating the auger shaft by hand. If it turns too easily, the internal coupler may be stripped.
+4. Test the auger motor for continuity using a multimeter.
+5. Replace the auger motor if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Needle-nose pliers, Multimeter",Ice Auger Coupler,,5-10 years,,Auger Motor,,8-12 years,,,,,,45-90 minutes,,Avoid overfilling the ice bucket. Regularly empty and clean the ice bucket. ,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator ice dispenser not working,Misaligned or Damaged Dispenser Funnel Guide,Mechanical Issues,Low,Low,"Ice is produced but doesn’t dispense properly—ice may fall behind or spill, or nothing exits the chute even though the auger runs.","The dispenser funnel guide directs ice from the chute into your glass. If it’s misaligned, broken, or clogged, ice can get stuck or fall inside the door instead of being dispensed. This often happens due to wear, ice buildup, or accidental damage.","Check the funnel guide for cracks, blockages, or misalignment. Clean out any ice buildup and reposition the guide if it's out of place. If damaged, replace it with a compatible part. Once aligned or replaced, test the dispenser to ensure ice flows correctly into the glass.",Easy-DIY,"Screwdriver, Warm cloth",Dispenser Funnel Guide,,5-10 years,5-8 years,,,,,,,,,10-20 minutes,,"Use the dispenser regularly, keep the funnel clean and dry, and avoid forcefully jamming the glass into the paddle to protect the guide from damage.
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/54---/Refrigerator-Ice-Dispenser-Not-Working,,,,,,
+,Refrigerator not defrosting,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator not defrosting,Faulty Defrost Thermostat,Thermal Issues,High,Medium,"Excessive frost buildup on evaporator coils, warm fridge section, despite freezer working.","The defrost thermostat monitors the temperature of the evaporator coils. It allows the defrost heater to turn on only when the coils are cold enough to need defrosting. If the thermostat is stuck open or shorted, it will prevent the heater from activating, leading to frost accumulation and poor airflow.","Unplug the refrigerator and access the evaporator coils (usually behind the back panel of the freezer). Locate the defrost thermostat, typically clipped to the coils. Use a multimeter to test it for continuity while cold. If there's no continuity when cold, the thermostat is faulty and should be replaced. After replacement, manually defrost any ice buildup and restore power.
+",Medium-DIY,"Screwdriver, Multimeter, Plier",Defrost Thermostat,"Frequently Bought, Both",5-10 years,4-7 years,,,,,,,,,60-120 minutes,,"1- Keep freezer vents clear for good airflow.
+2- Periodically inspect evaporator area for early frost signs. 
+3- Avoid overstuffing the freezer, which restricts circulation and increases humidity.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,Faulty Defrost Heater Assembly,Thermal Issues,High,Medium,Excessive Frost Build-up in the Refrigerator,"The refrigerator may not be defrosting due to a burnt out or a malfunctioning defrost heater, causing the frost to build up.","Replace the defrost heater assembly.
+1. Inspect the defrost heater for visible signs of damage or burnt marks.
+2. Use a multimeter to check for continuity.
+3. Replace the defrost heater if it shows no continuity or is found malfunctioning.",Medium-DIY,"Screwdriver, Multimeter",Defrost Heater Assembly,,5-10 years,3-5 years,,,,,,,,,30-45 minutes,,Clean the coils regularly and inspect the defrost heater for continuity.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,"Door left open",User Error / Installation Issues,High,High,Excessive frost or ice buildup in the freezer and cooling issues in the fridge section.,"Leaving the refrigerator or freezer door open allows warm, humid air to enter. This moisture condenses and freezes on the evaporator coils, overwhelming the defrost system. Over time, it leads to airflow blockage and poor cooling.","Manually defrost the refrigerator by unplugging it and leaving the doors open for several hours. Speed up the process using warm towels or a hair dryer (used safely). Once defrosted, clean and dry all compartments. Ensure the door seals are clean and undamaged, and avoid keeping the door open for extended periods. If the door seals are damaged, you may need to replace it.",Easy-DIY,"Putty Knife, Hair dryer, Towels",Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,4-8 hours,,"Check Door Seals Regularly, ensure gaskets are clean, flexible, and sealing properly to prevent air leaks. Close door fully. Avoid overloading shelves. Make sure the fridge is slightly tilted backward so doors close on their own.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,Faulty Defrost Control Board,Control or Software Issues,Medium,Low,"Heater, Thermostat, and Sensor test good, but still no defrost in refrigerator.","Defrost control board may be faulty, causing the defrost components to not work properly and hence resulting in no defrosting.","Replace the defrost control board.
+1. Inspect the control board for visible signs of damage or corrosion.
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Replace the defrost control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Defrost Control Board,,8-12 years,5-7 years,,,,,,,,,30-60 minutes,,Use a surge protector. Keep condenser coils clean. Ensure proper air circulation.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,Faulty Defrost Timer,Electrical Issues,Medium,Low,"Excessive frost on freezer coils and poor cooling, even though the fan and compressor are working.","The defrost timer controls when the refrigerator enters defrost mode. If the timer is stuck or malfunctioning, the defrost cycle won’t start, causing frost buildup on the evaporator coils and restricted airflow.","Unplug the refrigerator and locate the defrost timer (often behind the kickplate or inside the control housing). Manually advance it using a flathead screwdriver—if the heater activates, the timer is likely faulty. Replace the defrost timer with a compatible part, then test the fridge after reassembly to confirm proper cycling.",Medium-DIY,"Screwdriver, Multimeter",Defrost Timer,,5-10 years,5-8 years,,,,,,,,,30-60 minutes,,Keep vents and coils clean to reduce system strain. Listen for irregular defrost cycles. Avoid frequent unplugging/replugging which can wear down timer contacts.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,Worn Out Door Gasket,Other,Medium,Medium,Excessive frost buildup inside the freezer and the door seems to be not sealing properly.,"The door gasket may be worn out, causing the warm air to enter the refrigerator and leading to a partial or complete failure to defrost.","Inspect and replace the door gasket.
+1. Inspect the door gasket for any signs of wear.
+2. If the door gasket is found at fault, replace it.",Easy-DIY,Putty knife,Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,15-30 minutes,,Clean seal monthly. Replace if cracked or loose,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,Faulty Thermistor,Thermal Issues,Low,Medium,Excessive frost build-up in the refrigerator and refrigerator fails to enter defrost cycle.,"Since the thermistor provides temperature data to the control board, a faulty thermistor may cause the defrost cycle to fail entirely.","Replace the thermistor.
+1. Test the thermistor for continuity using a multimeter.
+2. If the thermistor shows no contiuity or there is fluctuations in the refrigerator's temperature, replace the thermistor.",Medium-DIY,"Screwdriver, Multimeter",Thermistor,Frequently Bought,5-10 years,4-7 years,,,,,,,,,30-60 minutes,,Make sure the temperatures inside the refrigerator are even. Check periodically.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator not defrosting,Malfunctioning or Faulty Main Control Board,Control or Software Issues,Low,Low,Failure to initiate the defrost cycle and defrost components not working.,"Main control board might be malfunctioning, causing the defrost components to not work.","Replace the main control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the main control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Main Control Board,,8-15 years,5-7 years,,,,,,,,,60-120 minutes,,Protect against power surges. Ensure proper ventilation. Perform regular maintenance.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/55---/Refrigerator-Not-Defrosting,,,,,,
+,Refrigerator light not working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator light not working,Faulty Light Bulb,Electrical Issues,High,High,Light bulb flickering or not working,"The light bulb itself could be at fault, resulting in dim or no light.","Replace the light bulb.
+1. Remove and inspect the light bulb for any visible damages.
+2. Test the light bulb for continuity using a multimeter.
+3. If it shows no continuity or is found at fault, replace it.",Easy-DIY,Multimeter,Light Bulb,Frequently Bought,5-10 years,3-5 years,,,,,,,,,15-30 minutes,,"Clean the bulb area periodically. Dust or moisture buildup can cause poor contact or short circuits.
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/63---/Refrigerator-Light-Not-Working,,,,,,
+,Refrigerator light not working,Malfunctioning Light Switch,Electrical Issues,High,High,Light Doesn't Turn On When Door is Open,"Door switch might be malfunctioning and not detecting whether the door is open or closed, causing the light to not work.","Replace the light switch.
+1. Remove and inspect the light switch for any visible damages.
+2. Check whether the light turns on on opening the door.
+3. Test the light switch for continuity using a multimeter.
+4. If it shows no continuity or is found at fault, replace it.",Medium-DIY,"Screwdriver, Multimeter",Light Switch,,5-10 years,,,,,,,,,,30-60 minutes,,Inspect the switch regularly. Avoid Slamming the door.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/63---/Refrigerator-Light-Not-Working,,,,,,
+,Refrigerator light not working,Faulty Light Socket,Electrical Issues,High,Medium,Light does not turn on even with a new bulb or switch,"Light socket may be at fault, causing the light to not work the new bulb","Replace the light socket.
+1. Remove and inspect the light socket for any visible damages.
+2. Check by installing a new light bulb on the socket.
+3. If the bulb still does not works, then the light socket needs to be replaced.",Medium-DIY,"Screwdriver, Multimeter",Light Socket,,10-15 years,8-15 years,,,,,,,,,30-60 minutes,,Regularly inspect the light socket for any visible damage.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/63---/Refrigerator-Light-Not-Working,,,,,,
+,Refrigerator light not working,Malfunctioning Control Board,Control or Software Issues,Medium,Low,Light still no responding even on checking all the light related components,"A relay on the control board might be shorted, or the control board might be malfunctioning, causing the light to not turn on.","Replace the control board.
+1. Inspect the control board for visible signs of damage.
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Replace the control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Control Board,,8-15 years,8-12 years,,,,,,,,,60-120 minutes,,Protect against power surges. Ensure proper ventilation. Perform regular maintenance.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/63---/Refrigerator-Light-Not-Working,,,,,,
+,Refrigerator light not working,Door opened too long,User Error / Installation Issues,Low,Low,Light does not come back on immediately after closing and reopening the door.,Door may be open for too long causing the light to turn off precautionally,Inspect the door whether it is properly closed or not. Make sure it is firmly closed in order to not cause this problem.,Easy-DIY,,,,,,,,,,,,,,5-10 minutes,,Always close the door properly.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/63---/Refrigerator-Light-Not-Working,,,,,,
+,Refrigerator runs constantly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator runs constantly,Faulty Thermistor,Thermal Issues,High,Medium,Refrigerator operates non-stop; internal temperatures may be too cold or not cold enough.,"A thermistor is a temperature-sensitive resistor that helps the refrigerator's control board manage cooling cycles. If it fails, it can provide inaccurate temperature readings, causing the compressor to run continuously and resulting in improper cooling.","To test the thermistor, unplug the refrigerator and find it on the evaporator coil or in the fresh food compartment. Disconnect it from the wiring harness. Use a multimeter set to ohms (Ω) to measure its resistance at room temperature (about 77°F or 25°C); a good thermistor should read between 5,000 and 10,000 ohms. To check its responsiveness, place it in ice water (32°F or 0°C) and observe the resistance change; a significant change indicates it is functioning properly. If the resistance remains unchanged or is outside the expected range, the thermistor likely needs replacement.",Medium-DIY,"Screwdriver, Multimeter",Thermistor,Frequently Bought,5-10 years,5-10 years,,,,,,,,,30-60 minutes,,"Regularly monitor internal temperatures to ensure consistent cooling. Schedule periodic inspections of temperature sensors and related components. Ensure proper ventilation around the refrigerator to maintain optimal operating conditions.
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Faulty Defrost Thermostat,Thermal Issues,High,Medium,Visible frost in the refrigerator and compressor and fans run constantly,"The defrost thermostat regulates the defrost cycle by sensing the temperature of the evaporator coil. If it fails, the defrost heater may never turn on, leading to ice buildup on the coils. This blocks airflow, so the fridge can not cool properly; even though the compressor keeps running non-stop trying to reach the set temperature.","Unplug the refrigerator and access the evaporator coils (usually behind the back panel of the freezer). Locate the defrost thermostat, typically clipped to the coils. Use a multimeter to test it for continuity while cold. If there's no continuity when cold, the thermostat is faulty and should be replaced. After replacement, manually defrost any ice buildup and restore power.
+",Medium-DIY,"Screwdriver, Multimeter, Plier",Defrost Thermostat,"Frequently Bought, Both",5-10 years,4-7 years,,,,,,,,,60-120 minutes,,"1- Keep freezer vents clear for good airflow.
+2- Periodically inspect evaporator area for early frost signs. 
+3- Avoid overstuffing the freezer, which restricts circulation and increases humidity.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Faulty Defrost Heater Assembly,Thermal Issues,Medium,Medium,Refrigerator runs continuously; excessive frost buildup on evaporator coils; reduced cooling efficiency.,"The defrost heater assembly is responsible for melting frost from the evaporator coils during the defrost cycle. If the heater fails, frost accumulates on the coils, restricting airflow and causing the refrigerator to run constantly to maintain the set temperature. ","To test the defrost heater, unplug the refrigerator and access the evaporator coils by removing the freezer's back panel. Locate the defrost heater, typically situated beneath the coils. Using a multimeter, check for continuity across the heater terminals. A lack of continuity indicates a faulty heater that needs replacement. After replacing the heater, ensure all connections are secure before restoring power.",Medium-DIY,"Screwdrivers, Work gloves, Hairdryer or heat gun",Defrost Heater Assembly,,5-10 years,5-10 years,,,,,,,,,60-120 minutes,,"Regularly clean condenser coils to ensure efficient operation. Avoid overloading the freezer to maintain proper airflow. Schedule periodic inspections of defrost system components.
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Worn Out Door Gasket,Mechanical Issues,Medium,Medium,Refrigerator operates non-stop; noticeable condensation or frost around the door edges; interior feels warmer than usual.,"The door gasket, a flexible seal around the refrigerator door, ensures an airtight closure. Over time, it can become brittle, cracked, or deformed, allowing warm air to enter and cold air to escape. This compromises the internal temperature, causing the compressor to run continuously to maintain the set temperature.","Test the Door Gasket: 
+To test for a worn or damaged refrigerator door gasket, place a bill or piece of paper between the gasket and the fridge frame, close the door, and try to pull the paper out. If it comes out easily, the seal is not airtight and needs to be replaced. 
+",Easy-DIY,Putty Knife,Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,30-60 minutes,,Regularly clean the gasket with mild soap and water to prevent debris buildup. Inspect the gasket periodically for signs of wear or damage. Ensure the refrigerator door closes properly and isn't obstructed by items inside.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Faulty Compressor,Mechanical Issues,Medium,Low,Compressor is running nonstop and not shutting off. Refrigerator still Not cooling properly,"Normally, the compressor should turn on and off as needed. If it never shuts off, it could be stuck or the system is not reaching set temperature due to compressor inefficiency.","Inspect and replace the compressor.
+1. Listen for any unusual sounds from the compressor (e.g., clicking or humming).
+2. Check the compressor for overheating or signs of damage.
+3. Replace the compressor if it is found malfunctioning.",Technician,,Compressor,,,,,,,,,,,,,,Ensure proper ventilation. Service unit annually,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Malfunctioning Main Control Board,Control or Software Issues,Medium,Medium,"Refrigerator and compressor run continuously, and unresponsive temperature controls.","A faulty control board is a less common but serious cause of a refrigerator running continuously. The control board acts as the ""brain"" of the fridge—managing components like the compressor, fans, thermostat, and defrost cycle. When it malfunctions, it can cause those parts to operate abnormally.","Replace the main control board.
+1. Inspect the control board for visible signs of damage (burn marks, corrosion).
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Test the board's functionality with diagnostic tools or a tech manual.
+4. Replace the main control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Control Board,,8-15 years,8-12 years,,,,,,,,,60-120 minutes,,Protect against power surges. Ensure proper ventilation. Perform regular maintenance.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Door Not Fully Closing,Other,Low,Low,Refrigerator runs continously and there is warm or uneven temperature inside.,"The compressor and fans run almost non-stop because cold air keeps escaping, and the unit struggles to maintain the set temperature.","Inspect the door gasket for any damages. A faulty door gasket can cause the door to not close properly. If the gasket is fine, check the door hinges for any misalingnment or damage. Replace the faulty parts accordingly.",Medium-DIY,"Screwdriver, Putty Knife",Door Gasket,Frequently Bought,5-10 years,3-5 years,,,Door Hinge,10-20 years,,,,,45-90 minutes,,Inspect the door gasket regularly and clean it. Also inspect door hinges for any damages over time.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Condenser Coils are Dirty,Refrigeration System Issues,Low,Low,Refrigerator runs continously and thercompressor is very hot.,"The condenser coils are responsible for releasing heat from the refrigerant. When they are clogged with dust, or grease, they can not dissipate heat efficiently. This causes the compressor to run longer and harder, trying to maintain the internal temperature.","Clean the condenser coil:
+1. Unplug the refrigerator.
+2. Remove the base grille, if necessary.
+3. Use a refrigerator condenser coil cleaning brush to remove any dirt, dust, pet hair, etc., from the coils.
+4. Sweep or vacuum any dirt, dust, or pet hair from the floor around the area.
+5. Replace the grille, if necessary.
+6. Plug the refrigerator back into the wall outlet.",Easy-DIY,Coil Cleaning Brush,,,,,,,,,,,,,15-30 minutes,6 months,Clean condenser coils every 6 months; ensure proper airflow around the fridge.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Faulty Evaporator Fan Motor,Mechanical Issues,Low,Low,"Refrigerator runs continuously; freezer is cold, but refrigerator compartment is warm; unusual noises or complete silence from the fan area.","The evaporator fan motor circulates cold air from the freezer to the refrigerator compartment. If the fan motor fails, cold air isn't distributed properly, causing the refrigerator to run non-stop in an attempt to reach the set temperature. ","To diagnose the evaporator fan motor:
+
+1- Access the Fan: Unplug the refrigerator and remove the freezer's back panel to locate the evaporator fan.
+2- Inspect for Obstructions: Check if the fan blades spin freely by hand. If they don't, there might be debris or ice buildup.
+3- Test the Motor: Using a multimeter, check for continuity across the fan motor terminals. A lack of continuity indicates a faulty motor.
+4- Check Voltage Supply: Ensure the fan is receiving the correct voltage when the refrigerator is running. If there's power but the fan doesn't operate, the motor is defective and needs to be replaced. ",Medium-DIY,"Work gloves, Screwdrivers, Multimeter",Evaporator Fan Motor,Frequently Bought,8-12 years,,,,,,,,,,30-60 minutes,,Regularly clean the freezer to prevent ice buildup. Ensure vents are not blocked by food items. Schedule periodic inspections of fan operation,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator runs constantly,Room Temperature is Hot,Thermal Issues,Low,Low,"Refrigerator compressor runs non-stop, but cooling is still normal or slightly weak.","In a hot room (above ~85°F / 29°C), the refrigerator has to work harder to maintain internal temperatures. The compressor runs continuously to compensate for higher ambient heat, especially in poorly ventilated areas or during summer. This is a normal reaction, but it can lead to increased wear over time.","Ensure the refrigerator is placed in a well-ventilated space, away from direct sunlight or heat-producing appliances. Improve airflow around the unit by allowing at least 2–3 inches of space behind and on the sides. If possible, reduce room temperature with ventilation or cooling. Clean the condenser coils to help the system run more efficiently.",Easy-DIY,,,,,,,,,,,,,,30-40 minutes,,"Place the fridge in a cool, shaded area. Clean coils every 6 months for efficient heat dissipation. Avoid overloading the fridge, which traps heat. Improve room ventilation or add a fan in hot environments.
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/64---/Refrigerator-Runs-Constantly,,,,,,
+,Refrigerator control panel not working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator control panel not working,Faulty User Control and Display Board,Control or Software Issues,High,Medium,Control panel is completely unresponsive. Buttons do not work or respond incorrectly.,User control and display board might be malfunctioning causing the controls to not work properly or at all.,"Inspect and replace the user control and display board.
+1. Inspect the user control and display board for any visible damages.
+2. Check the control panel by pressing the keys on it.
+3. Test the user control and display board for continuity using a multimeter.
+4. If the control board shows no continuity, keypad does not responds or is found malfunctioning, replace it.",Medium-DIY,"Screwdriver, Multimeter",User Control & Display Board,,7-10 years,3-7 years,,,,,,,,,30-60 minutes,,Ensure proper ventilation. Service unit annually,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/585---/Refrigerator-Control-Panel-Not-Working,,,,,,
+,Refrigerator control panel not working,Faulty Dispenser Control Board,Control or Software Issues,High,Medium,Dispenser Control Panel Not Working,No lights or display on the dispenser panel. Dispenser not dispensing ice or water even though the fridge is cooling normally.,"Inspect and replace the dispenser control board.
+1. Inspect the dispenser control board for any visible damages.
+2. Check the dispenser control panel by pressing the keys on it.
+3. Test the dispenser control board for continuity using a multimeter.
+4. If the control board shows no continuity or is found malfunctioning, replace it.",Medium-DIY,"Screwdriver, Multimeter",Dispenser Control Board,,8-10 years,3-7 years,,,,,,,,,30-60 minutes,,Check for moistures and clean the dispenser control panel regularly. Use a surge protector.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/585---/Refrigerator-Control-Panel-Not-Working,,,,,,
+,Refrigerator control panel not working,Disconnected or Damaged Wire Harness,Electrical Issues,High,Medium,"The refrigerator's control panel may become unresponsive or show a blank screen, leading to non-operational buttons and a dark display. Other components like lights or fans may also be affected if connected to the same wiring.","Over time, wires may become frayed, pinched, or corroded, particularly in regions exposed to movement, such as near door hinges. This type of damage interferes with the electrical connection, resulting in malfunctions of the control panel.","Unplug the refrigerator if the control panel isn't working due to a faulty wire harness. Find the connection between the control panel and main control board, usually near the door hinge. Inspect for damage or disconnection. Repair or replace the harness if needed, ensuring all connections are secure before reassembling. If the problem continues, seek help from a professional technician.",Medium-DIY,"Screwdrivers, Multimeter, Wire strippers, Electrical tape",,,,,,,,,,,,,30-60 minutes,,"1- Regularly inspect the wire harness for signs of wear or damage.
+2- Ensure wires are properly secured and not subject to pinching or excessive movement.
+3- Avoid overloading the refrigerator doors, which can stress the harness connections.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/585---/Refrigerator-Control-Panel-Not-Working,,,,,,
+,Refrigerator control panel not working,Incoming Power Problem,Electrical Issues,High,High,Control panel is completely dead and the interior lights are off.,"The power may not be reaching the refrigerator, causing the control panel to not work.","Inspect the incoming power.
+1. Make sure the appliance is properly plugged in.
+2. Make sure the incoming power to the refrigerator is sufficient.
+3. Check the power cord for any visible damages or malfunctioning.
+4. Replace the power cord if it is found at fault.",Medium-DIY,"Screwdriver, Wire stripper",Power Cord,,10-20 years,5-15 years,,,,,,,,,30-60 minutes,,Make sure the appliance is recieving suitable constant power and there are no power surges. Inspect power cord for damages periodically.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/585---/Refrigerator-Control-Panel-Not-Working,,,,,,
+,Refrigerator control panel not working,Control Panel Is Locked Out,Other,Low,Low,Control panel is unresponsive,"The control lock feature may be turned on, causing the control panel to not work.",Make sure the control lock feature is turned off. You can turn it off using the instructions given in the user manual of the appliance.,Easy-DIY,,,,,,,,,,,,,,5-10 minutes,,Avoid turning on the control lock feature accidentally.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/585---/Refrigerator-Control-Panel-Not-Working,,,,,,
+,Refrigerator control panel not working,Malfunctioning Control Board,Control or Software Issues,Medium,Low,Control panel is completely unresponsive. Buttons do not work or respond incorrectly.,"The main control board might be malfunctioning, causing the control panel to be unresponsive.","Replace the control board.
+1. Inspect the control board for visible signs of damage.
+2. Use a multimeter to check for continuity or voltage irregularities.
+3. Replace the control board if it shows no continuity or is found malfunctioning.",Technician,"Screwdriver, Multimeter",Control Board,,8-15 years,8-12 years,,,,,,,,,60-120 minutes,,Protect against power surges. Ensure proper ventilation. Perform regular maintenance.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/585---/Refrigerator-Control-Panel-Not-Working,,,,,,
+,Refrigerator door not opening/closing properly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator door not opening/closing properly,Faulty Door Gasket,Other,High,High,Frost buildup inside the refrigerator and the door seems to be not sealing properly.,"The door gasket may be worn out, causing the door to not close and seal properly.","Inspect and replace the door gasket.
+1. Inspect the door gasket for any signs of wear.
+2. If the door gasket is found at fault, replace it.",Easy-DIY,Putty Knife,Door Gasket,Frequently Bought,5-10 years,3-5 years,,,,,,,,,30-60 minutes,,Regularly clean the gasket with mild soap and water to prevent debris buildup. Inspect the gasket periodically for signs of wear or damage. Ensure the refrigerator door closes properly and isn't obstructed by items inside.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/586---/Refrigerator-Door-Not-Opening-Closing-Properly,,,,,,
+,Refrigerator door not opening/closing properly,Broken Door Catch,Mechanical Issues,High,Medium,The refrigerator door does not stay closed or requires excessive force to close. You might notice the door popping open slightly after being shut or not aligning correctly with the refrigerator frame.,"The door catch or latch may be broken, worn out, or misaligned. Over time, repeated use can cause these components to degrade, especially if the door is frequently slammed or bears excessive weight. Additionally, the latch spring or hinge lever might be damaged, preventing the door from closing securely.","Begin by unplugging the refrigerator to ensure safety. Inspect the door latch mechanism for visible signs of damage or wear. If the latch is broken or the spring is faulty, replacing the defective parts is necessary.",Medium-DIY,Screwdrivers,Door Catch,,5-10 years,5-7 years,,,,,,,,,30-60 minutes,,"1- Avoid slamming the refrigerator door to reduce stress on the latch mechanism.
+2- Regularly inspect the door catch and latch for signs of wear or damage.
+3- Ensure the refrigerator is level to prevent undue pressure on the door components.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/586---/Refrigerator-Door-Not-Opening-Closing-Properly,,,,,,
+,Refrigerator door not opening/closing properly,Damaged Door Hinge Kit,Mechanical Issues,High,Medium,Door is not opening and closing properly and the door is misaligned.,"Door hinges maybe damaged or misaligned, causing problems for the refrigerator door to open or close properly.","Inspect and replace the door hinge.
+1. Inspect the door hinges for any misalignment or physical damage.
+2. Replace the hinges if found faulty.",Medium-DIY,Screwdriver,Door Hinge,,10-20 years,5-10 years,,,,,,,,,30-60 minutes,,Avoid slamming door. Ensure fridge is level,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/586---/Refrigerator-Door-Not-Opening-Closing-Properly,,,,,,
+,Refrigerator door not opening/closing properly,Broken Door Stop,Mechanical Issues,High,Medium,"Door opens too far or too freely, feels wobbly at full open, and will not stay in place at an open angle","The door stop might be damaged or broken, casuing the door to not open or close properly.","Inspect and replace the door stop.
+1. Inspect the door stop for any physical damage.
+2. Try opening and closing the door, and make sure it opens/closes properly.
+2. Replace the door stop if found faulty.",Medium-DIY,"Screwdriver, Nut Driver, Socket Wrench",Door Stop,,10-20 years,5-15 years,,,,,,,,,15-45 minutes,,"Avoid slamming the door and inspect the door cam for any signs of damage, yearly.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/586---/Refrigerator-Door-Not-Opening-Closing-Properly,,,,,,
+,Refrigerator door not opening/closing properly,Broken Door Guide,Mechanical Issues,Medium,Medium,"The refrigerator door does not stay closed or requires excessive force to close. You might notice the door misaligning, not sealing correctly, or making unusual noises during operation.","The likely cause is a broken or worn door guide (or door cam), which helps align and ease the movement of the door. Other contributing factors may include loose hinges, debris buildup, or excessive weight in the door shelves.","Begin by inspecting the bottom hinge area for signs of wear or damage to the door guide. If broken, replace it with a model-specific guide. Clean any debris and check hinge tightness. Optionally, apply a food-safe lubricant to moving parts to improve motion and prevent wear.",Medium-DIY,"Screwdriver, Socket wrench set",Door Guide,,5-10 years,5-7 years,,,,,,,,,30-60 minutes,,"Avoid slamming or forcing the door, clean hinge and guide areas periodically, distribute door shelf weight evenly, and inspect components annually for wear or misalignment.
+
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/586---/Refrigerator-Door-Not-Opening-Closing-Properly,,,,,,
+,Refrigerator door not opening/closing properly,Obstructed Door,Other,Low,Low,The door is not closing properly or closes unevenly.,"Something from the refrigerator might be obstructing the door, causing it to not close properly.",Inspect the refrigerator shelves and make sure nothing is obstructing the door from properly closing. Also check the door hinges and make sure there is no obstruction there too.,Easy-DIY,,,,,,,,,,,,,,10-15 minutes,,"Make sure to not overload refrigerator, causing the problems for the door to close.",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/586---/Refrigerator-Door-Not-Opening-Closing-Properly,,,,,,
+,Refrigerator ice is dirty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Refrigerator ice is dirty,"Water Filter",Water Flow / Hydraulic Issues,High,High,"Cloudy or discolored ice cubes, bad taste in ice and unpleasant odor in ice or water.","The water filter may be clogged or needs replacement, which is causing the ice to be dirty.","Replace the water filter.        
+1. Check the filter for age or sediment buildup. 
+2. Replace with a compatible filter. 
+3. Reset the filter indicator if applicable.",Easy-DIY,-,Water Filter,Frequently Bought,0.5 years,0.5 years,,,,,,,,,5-10 minutes,Replace every 6 months,Replace filter every 6 months or as recommended.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/588---/Refrigerator-Ice-Is-Dirty,,,,,,
+,Refrigerator ice is dirty,Dirty Water Supply,Water Flow / Hydraulic Issues,High,High,Ice being formed is dirty and the internal components are clean.,"The water supply to the refrigerator may have any molds or debris, causing the ice to be dirty.",Check the house water supply and make sure it is free of any molds or debris. Make sure the water reaching the ice maker is clean.,Easy-DIY,,,,,,,,,,,,,,5-10 minutes,,Periodically check and clean the home water supply,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/588---/Refrigerator-Ice-Is-Dirty,,,,,,
+,Refrigerator ice is dirty,Malfunctioning Ice Maker Assembly,Mechanical Issues,High,Medium,Mold or mildew buildup in ice maker.,The ice maker may be dirty causing the ice to be formed dirty.,"Inspect the ice maker assembly for any molds or debris. Clean the ice maker using a soft sponge. If the problem persists, eben after cleaninig, replace the ice maker.",Medium-DIY,"Screwdriver, Nut Driver",Ice Maker Assembly,Frequently Bought,5-10 years,5-7 years,,,,,,,,,30-45 minutes,,Periodically inspect ice maker for any molds or mildew and clean them.,,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/588---/Refrigerator-Ice-Is-Dirty,,,,,,
+,Refrigerator ice is dirty,Contaminated Water Supply Tube,Water Flow / Hydraulic Issues,Medium,Medium,"Ice cubes appear cloudy, discolored (gray, yellow, or brown), or have particles inside. They may also emit a strange odor or taste bad.","The water supply tube may be contaminated with mold, algae, rust, or mineral deposits. Over time, plastic tubing can degrade, especially if exposed to heat or chemicals, introducing impurities into the ice-making system.","Inspect the water supply tube for discoloration, scaling, or sediment buildup. If it appears degraded or dirty, replace it entirely. Flush the new tube before use, and ensure a water filter is installed and not overdue for replacement. Cleaning the ice maker tray and line connectors is also recommended.",Medium-DIY,"Pliers, Adjustable wrench",Water Supply Tube,,5-08 years,5 years,,,,,,,,,30-45 minutes,,"Replace water filters every 6 months, use only food-grade tubing, inspect and flush the water line annually, and avoid chemical cleaners that may leach into plastic. If your home has hard water, consider a whole-house water softener or pre-filter.
+
+",,,,,,,,https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Refrigerator/588---/Refrigerator-Ice-Is-Dirty,,,,,,
